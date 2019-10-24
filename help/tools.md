@@ -17,7 +17,7 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 
 ![](assets/tools.jpg)
 
-您可以在任何页面上动态插入启动项或DTM，以在未安装启动项或DTM的页面上测试某些内容。 单击“嵌 **[!UICONTROL 入代码]** ”图标，然后键入嵌 [入代码](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) ，然后单击“ **[!UICONTROL 保存]**”。
+您可以在任何页面上动态插入启动项或DTM，以在未安装启动项或DTM的页面上测试某些内容。 单击图 **[!UICONTROL Embed Code]** 标，然后键入嵌入 [代码](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) ，然后单击 **[!UICONTROL Save]**。
 
 ![](assets/tools-embedcode.jpg)
 
