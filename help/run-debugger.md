@@ -23,7 +23,7 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 
 此屏幕显示页面的缩略图，以及页面的URL和标题。 它还显示有关每个Adobe Experience cloud解决方案的信息。 显示的信息因解决方案而异，但通常包括解决方案库和版本（例如，“AppMeasurement v2.9”）以及帐户标识符（如Analytics报告套件ID、Target客户端代码、Audience manager合作伙伴ID等）等信息
 
-窗口顶部选项卡旁边的蓝色数字显示已发出的服务器调用数。 您可以通过单击相应选项卡中的“清 **[!UICONTROL 除所有请求]** ”将这些请求重置为零。
+窗口顶部选项卡旁边的蓝色数字显示已发出的服务器调用数。 您可以通过单击相应选项卡中的 **[!UICONTROL Clear All Requests]** 选项卡将这些值重置为零。
 
 例如，下图显示了有关Adobe Target的信息。 请注意，要显示下面所示的活动详细信息而不进行身份验证，您必须在代码或标签管理器中实现调试事件监听器，并在目标UI中打开必 [要的响应令牌](https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html) 。
 
@@ -31,7 +31,7 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 
 ## 在Auditor中运行审核 {#section-82bc57440406461ebf27a16855b71655}
 
-您可以使用Adobe Auditor在您的页面上运行一系列审核。 要运行Auditor，请单击顶部菜 **[!UICONTROL 单中的]** “Auditor”，然后单击“ **[!UICONTROL Audit Page Now”]**。 要打开Adobe Auditor，请单击“ **[!UICONTROL 立即运行多页审核”]**。
+您可以使用Adobe Auditor在您的页面上运行一系列审核。 要运行Auditor，请单击顶 **[!UICONTROL Auditor]** 部菜单中的，然后单击 **[!UICONTROL Audit Page Now]**。 要打开Adobe Auditor，请单击 **[!UICONTROL Run Multi-Page Audit Now]**。
 
 ## 调试器中显示的信息 {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
