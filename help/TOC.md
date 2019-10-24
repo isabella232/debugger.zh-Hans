@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: experience cloud
 sub-product: 体验云调试器
 audience: 最终用户
