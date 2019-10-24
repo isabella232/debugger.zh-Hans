@@ -13,7 +13,7 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 
 # 网络信息{#network-information}
 
-要查看网络信息，请单击“ **[!UICONTROL 网络]**”。
+要查看网络信息，请单击 **[!UICONTROL Network]**。
 
 “网络”屏幕汇总页面上发出的所有Adobe Experience cloud解决方案调用，并按从左到右的顺序显示它们。 标准参数会自动标有友好名称，并被安排为对相同角色的常用参数进行分组。
 
@@ -25,7 +25,7 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 >
 >此时，并非所有在解决方案调用中传递的参数（例如，Analytics上下文变量、Target自定义参数或Experience Cloud ID服务客户ID）都显示在网络屏幕中。
 
-要查看所有信息，请选择“ **[!UICONTROL 全部”]**。
+要查看所有信息，请选择 **[!UICONTROL All]**。
 
 您还可以按解决方案筛选信息。 选择要查看的解决方案。 您可以同时查看多个解决方案。 选中的解决方案过滤器将突出显示。
 
