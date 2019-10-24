@@ -41,7 +41,7 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 
 **关联帐户（旧版）**
 
-单击 **[!UICONTROL 关联帐户]**，然后输入请求的信息以将Analytics帐户关联到调试器。
+单 **[!UICONTROL Link Account]**&#x200B;击，然后输入所请求的信息，以将Analytics帐户关联到调试器。
 
 >[!NOTE]
 >
@@ -61,11 +61,11 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 
 使用Target选项卡可查看 [Target请求](https://docs.adobe.com/content/help/en/target/using/target-home.html) 或 [Mbox Trace响应详细信](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) 息。
 
-单击 **[!UICONTROL 请求]**，然后展开环境以查看有关Target的信息。
+单 **[!UICONTROL Requests]**&#x200B;击，然后展开该环境以查看有关Target的信息。
 
 ![](assets/target-requests.jpg)
 
-单击 **[!UICONTROL 清除所有请求]** ，以删除当前显示的请求。 将在发出请求时显示更多请求。
+单击 **[!UICONTROL Clear All Requests]** 可删除当前显示的请求。 将在发出请求时显示更多请求。
 
 您还可以使用“目标”过滤器启 [用“MBox跟踪”以用于Target调试](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html)。
 
@@ -97,7 +97,7 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 
 ![](assets/audience-manager.jpg)
 
-单击 **[!UICONTROL 清除所有事件]** ，以重置显示的信息。 新事件将在发生时显示。
+单击 **[!UICONTROL Clear All Events]** 可重置显示的信息。 新事件将在发生时显示。
 
 **ID同步**
 
@@ -111,14 +111,14 @@ ID同步是入站异步数据传输过程中的第一步。 在此步骤中，Au
 
 使用Advertising cloud选项卡查看Advertising cloud请求。
 
-单击 **[!UICONTROL 请求]**，然后展开环境以查看有关Advertising Cloud的信息。
+单 **[!UICONTROL Requests]**&#x200B;击，然后展开该环境以查看有关Advertising cloud的信息。
 
-单击 **[!UICONTROL 清除所有请求]** ，以删除当前显示的请求。 将在发出请求时显示更多请求。
+单击 **[!UICONTROL Clear All Requests]** 可删除当前显示的请求。 将在发出请求时显示更多请求。
 
 ## Experience Cloud ID 服务 {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
 使用Experience Cloud ID服务选项卡查看 [Experience Cloud ID服务请求](https://experiencecloud.adobe.com/resources/help/en_US/mcvid/) 。
 
-单击 **[!UICONTROL 请求]**，然后展开环境以查看有关Experience Cloud ID服务的信息。
+单 **[!UICONTROL Requests]**&#x200B;击，然后展开该环境以查看有关Experience Cloud ID服务的信息。
 
-单击 **[!UICONTROL 清除所有请求]** ，以删除当前显示的请求。 将在发出请求时显示更多请求。
+单击 **[!UICONTROL Clear All Requests]** 可删除当前显示的请求。 将在发出请求时显示更多请求。
