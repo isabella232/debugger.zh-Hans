@@ -22,4 +22,4 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 
 ![](assets/logs.jpg)
 
-某些DTM日志项目在其消息中包含“显示代码”选项。 单击 **[!UICONTROL 显示代码]** ，以查看确定规则是否应触发的条件代码。
+某些DTM日志项目在其消息中包含“显示代码”选项。 单 **[!UICONTROL Show Code]** 击以查看确定规则是否应触发的条件代码。
