@@ -9,7 +9,7 @@ tutorials-title: 教程
 tutorials-url: https://helpx.adobe.com/cn/analytics/how-to/adobe-launch-publishing-process.html
 git-repo: https://github.com/AdobeDocs/debugger.en
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d78218242347d004d2bf9737ba745d12673a06d5
 
 ---
