@@ -6,7 +6,7 @@ seo-title: 网络信息
 title: 网络信息
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 translation-type: tm+mt
-source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
+source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 
 ---
 
@@ -19,7 +19,7 @@ To view Network information, click **[!UICONTROL Network]**.
 
 ![](assets/network.jpg)
 
-此屏幕有助于确认用于集成的参数（如Experience Cloud访客ID或补充数据ID）是否在整合中保持一致。
+此屏幕可用于比较点击中的键值对。 您可以确认用于集成的参数（如Experience Cloud访客ID或补充数据ID）是否在整合中一致。
 
 >[!NOTE]
 >
