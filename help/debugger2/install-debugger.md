@@ -6,7 +6,7 @@ seo-title: 安装 Experience Cloud 调试器
 title: 安装 Experience Cloud 调试器
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 translation-type: tm+mt
-source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
+source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 
 ---
 
@@ -27,3 +27,9 @@ source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
 单击该图标以启动调试器。
 
 在调试器打开后，您可以通过转到并选择“深色模式”(默 **** 认)或“浅色模式” **来选择** 首选外观 ****。
+
+当您更改站点上的页面时，“调试器”窗口会更新以显示该页面的信息。 您连接到的页面的名称显示在屏幕底部。 要将调试器锁定在一个页面上，请 **[!UICONTROL Lock]** 单击“调试器”窗口右下角的。
+
+![](assets/lock.jpg)
+
+如果您在调试打开的页面时正在阅读文档或查看其他页面上的信息，则此功能很有用。
