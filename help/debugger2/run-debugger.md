@@ -4,12 +4,12 @@ description: Adobe调试器中摘要屏幕的说明
 keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 translation-type: tm+mt
-source-git-commit: c2f512f5451befbdb7aa39ac3f17a89a8c52a55f
+source-git-commit: b4a4b74f3c60b88881fe90411826e8194f4a4f2c
 
 ---
 
 
-# 摘要屏幕{#summary-screen}
+# 摘要屏幕 {#summary-screen}
 
 要运行 Experience Cloud 调试器，请单击扩展栏中的扩展图标，然后在 Chrome 中打开要检查的页面。
 
