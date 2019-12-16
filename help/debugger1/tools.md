@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: 工具
 title: 工具
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ---
@@ -17,7 +17,7 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ![](assets/tools.jpg)
 
-您可以在任何页面上动态插入 Launch 或 DTM，以在未安装 Launch 或 DTM 的页面上测试某些内容。Click the **[!UICONTROL Embed Code]** icon, then type your [embed code](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) and click **[!UICONTROL Save]**.
+您可以在任何页面上动态插入 Launch 或 DTM，以在未安装 Launch 或 DTM 的页面上测试某些内容。单击 **[!UICONTROL Embed Code]** 图标，然后键入您的[嵌入代码](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html)并单击 **[!UICONTROL Save]**。
 
 ![](assets/tools-embedcode.jpg)
 
@@ -62,11 +62,11 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Target 控制台日志记录 </p> </td> 
-   <td colname="col2"> <p>此工具通过向您的浏览器添加一个名为<span class="codeph"> mboxDebug=true</span> 的 Cookie，可向浏览器控制台提供特定于 Target 的调试语句，所有语句均以 <span class="codeph">AT:</span> 作为前缀。目前，控制台语句不显示在“调试器日志”屏幕中，而是显示在浏览器的原生调试控制台中。 </p> <p> 此工具需要 0.9.6 以上版本的 at.js。如果您使用的是较低版本的 at.js，要启用控制台日志记录，可以向您的 URL 添加<span class="codeph"> ?mboxDebug=true</span> 查询字符串参数。如果您使用的是 mbox.js，可添加<span class="codeph"> ?_AT_Debug=console</span> 参数，以便启用控制台日志记录并仅限于记录可视化体验编辑器活动。 </p> </td> 
+   <td colname="col2"> <p>此工具通过向您的浏览器添加一个名为<span class="codeph"> mboxDebug=true</span> 的 Cookie，可向浏览器控制台提供特定于 Target 的调试语句，所有语句均以 <span class="codeph">AT:</span> 作为前缀。目前，控制台语句不显示在“Debugger 日志”屏幕中，而是显示在浏览器的原生调试控制台中。 </p> <p> 此工具需要 0.9.6 以上版本的 at.js。如果您使用的是较低版本的 at.js，要启用控制台日志记录，可以向您的 URL 添加<span class="codeph"> ?mboxDebug=true</span> 查询字符串参数。如果您使用的是 mbox.js，可添加<span class="codeph"> ?_AT_Debug=console</span> 参数，以便启用控制台日志记录并仅限于记录可视化体验编辑器活动。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> 启用 Mbox 追踪 </p> </td> 
-   <td colname="col2"> <p>此工具可向 Target 响应添加详细信息，这些信息可在调试器的 <span class="uicontrol">Target &gt; Mbox 追踪</span>屏幕中查看。 </p> <p> 您必须已经在其中一个 Chrome 选项卡上登录到 Experience Cloud，才能启用此工具。 </p> </td> 
+   <td colname="col2"> <p>此工具可向 Target 响应添加详细信息，这些信息可在 Debugger 的 <span class="uicontrol">Target &gt; Mbox 追踪</span>屏幕中查看。 </p> <p> 您必须已经在其中一个 Chrome 选项卡上登录到 Experience Cloud，才能启用此工具。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>禁用 Target </p> </td> 
@@ -79,6 +79,6 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
  </tbody> 
 </table>
 
-以下视频介绍了如何将调试器扩展与 Adobe Target 结合使用。
+以下视频介绍了如何将 Debugger 扩展与 Adobe Target 结合使用。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=chi_hans)
