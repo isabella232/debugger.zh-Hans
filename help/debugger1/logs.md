@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: 日志
 title: 日志
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ---
@@ -22,4 +22,4 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ![](assets/logs.jpg)
 
-某些 DTM 日志项在其消息中包含“显示代码”选项。Click **[!UICONTROL Show Code]** to view the conditional code that determines whether a rule should fire.
+某些 DTM 日志项在其消息中包含“显示代码”选项。单击 **[!UICONTROL Show Code]** 可查看旨在确定是否应当触发某个规则的条件代码。
