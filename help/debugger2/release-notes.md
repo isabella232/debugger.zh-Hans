@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: 发行说明
 title: 发行说明
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 28e5681a3a2f58350348d4b9bc5b7e1bd979e749
 
 ---
@@ -48,11 +48,11 @@ source-git-commit: 28e5681a3a2f58350348d4b9bc5b7e1bd979e749
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Auditor 测试 </p> </td> 
-   <td colname="col2"> <p> 向调试器添加了 <a href="summary.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local">Auditor 测试</a> </p> </td> 
+   <td colname="col2"> <p> 向 Debugger 添加了 <a href="summary.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local">Auditor 测试</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
-   <td colname="col2"> <p>调试器现在显示 AAM 响应 </p> </td> 
+   <td colname="col2"> <p>Debugger 现在显示 AAM 响应 </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -61,7 +61,7 @@ source-git-commit: 28e5681a3a2f58350348d4b9bc5b7e1bd979e749
 
 * 修复了页脚在页面底部隐藏内容的问题
 
-* 更新了调试器页脚
+* 更新了 Debugger 页脚
 * 修复了对 Target 使用过时术语的问题
 
 ## 0.0.809 版 - 2019 年 2 月 28 日 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
@@ -93,7 +93,7 @@ source-git-commit: 28e5681a3a2f58350348d4b9bc5b7e1bd979e749
 
 * 修复了动态插入 Launch 中用户界面似乎映射到不同嵌入代码，而实际上却没有的问题
 * 修复了动态插入 Launch 中继续显示错误 URL 的问题
-* 修复了在调试器窗口关闭后调试器仍继续替换嵌入代码的问题
+* 修复了在 Debugger 窗口关闭后 Debugger 仍继续替换嵌入代码的问题
 
 ## 0.0.806 版 - 2018 年 9 月 10 日 {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
 
@@ -136,7 +136,7 @@ source-git-commit: 28e5681a3a2f58350348d4b9bc5b7e1bd979e749
 * 修复了 Experience Cloud 选项卡未更新的问题
 
 * 修复了“网络”选项卡的“解决方案”行中显示“Media Optimizer”，而非最新“Advertising Cloud”名称的问题
-* 修复了导致调试器在每个页面上注入 _satellite 的问题
+* 修复了导致 Debugger 在每个页面上注入 _satellite 的问题
 
 ## 0.0.803 版 - 2018 年 8 月 10 日 {#topic-d2901fb70ce04a5586f6c7a994fce875}
 
@@ -156,7 +156,7 @@ source-git-commit: 28e5681a3a2f58350348d4b9bc5b7e1bd979e749
  <tbody> 
   <tr> 
    <td colname="col1"> <p>“工具”选项卡上的 Auditor 链接 </p> </td> 
-   <td colname="col2"> <p>添加了从调试器到 Auditor 的链接 </p> </td> 
+   <td colname="col2"> <p>添加了从 Debugger 到 Auditor 的链接 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>折叠的选项卡 </p> </td> 
