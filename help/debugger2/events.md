@@ -4,13 +4,17 @@ keywords: debugger;experience cloud debugger extension;chrome;extension;events;d
 seo-description: 'null'
 seo-title: 事件
 title: 事件
-translation-type: ht
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+translation-type: tm+mt
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
 # 事件{#events}
+
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0目前处于测试阶段。 文档和功能可能会发生更改。
 
 “事件”屏幕提供了一个关于若干事件的图形化视图；其中，将按照时间线显示所发生的事件。
 
@@ -30,7 +34,9 @@ source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 
 1. 单击右上方的齿轮图标。
 1. 输入数据层的名称。
+
    ![](assets/event-datalayer.jpg)
+
 1. 单击 **[!UICONTROL Save]**。
 
 数据层变更详情将显示所有删除或添加的内容。您可以单击 **{}**，以便更加深入地了解数据层。
