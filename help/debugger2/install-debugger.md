@@ -6,7 +6,7 @@ seo-title: 安装 Experience Cloud Debugger
 title: 安装 Experience Cloud Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 translation-type: tm+mt
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+source-git-commit: 3b2fd709419b40e0503baef9a39128ddbf4875b3
 
 ---
 
@@ -25,8 +25,6 @@ source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 安装Chrome扩展或Firefox加载项后，扩展栏中会添加一个图标：
 
 ![](assets/start-icon.jpg)
-
-<!-->>[!VIDEO](https://video.tv.adobe.com/v/23114t2/)-->
 
 单击该图标以启动 Debugger。
 
