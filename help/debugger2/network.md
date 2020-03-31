@@ -5,13 +5,17 @@ seo-description: 'null'
 seo-title: 网络信息
 title: 网络信息
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: ht
-source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
+translation-type: tm+mt
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
-# 网络信息{#network-information}
+# 网络{#network}
+
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0目前处于测试阶段。 文档和功能可能会发生更改。
 
 要查看网络信息，请单击 **[!UICONTROL Network]**。
 
@@ -25,7 +29,7 @@ source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 >
 >目前，并非所有在解决方案调用中传递的参数都在“网络”屏幕中可见，例如，Analytics 上下文变量、Target 自定义参数或 Experience Cloud ID 服务客户 ID。
 
-要按解决方案筛选信息，请从左侧导航列表中选择要查看的解决方案。以下是经过筛选，仅显示 Analytics 的示例：
+要按解决方案更改信息，请从左导航的视图中选择要列表的解决方案。 以下是经过筛选，仅显示 Analytics 的示例：
 
 ![](assets/network-analytics.jpg)
 
