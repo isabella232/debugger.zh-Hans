@@ -5,8 +5,8 @@ seo-description: 'null'
 seo-title: 摘要屏幕
 title: 摘要屏幕
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: ht
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+translation-type: tm+mt
+source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ---
 
@@ -25,7 +25,7 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 窗口顶部选项卡旁边的蓝色数字显示已发出的服务器调用数。您可以通过单击相应选项卡中的 **[!UICONTROL Clear All Requests]**，将这些调用重置为零。
 
-例如，下图显示了有关 Adobe Target 的信息。请注意，要在不进行身份验证的情况下显示下图中的活动详细信息，您必须在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的[响应令牌](https://docs.adobe.com/content/help/zh-Hans/target/using/administer/response-tokens.html)。
+例如，下图显示了有关 Adobe Target 的信息。请注意，要在不进行身份验证的情况下显示下图中的活动详细信息，您必须在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的[响应令牌](https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html)。
 
 ![](assets/summary-target2.jpg)
 
@@ -62,19 +62,19 @@ Debugger 将显示每个解决方案的以下信息：
  <tbody> 
   <tr> 
    <td colname="col1"> <p>报表包 </p> </td> 
-   <td colname="col2"> <p><a href="https://experiencecloud.adobe.com/resources/help/zh_CN/reference/report_suites_admin.html" format="html" scope="external">报表包</a>可以针对选定的一个网站、一组网站或网页的子集，定义完整、独立的报表 </p> </td> 
+   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html" format="html" scope="external">报表包</a>可以针对选定的一个网站、一组网站或网页的子集，定义完整、独立的报表 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>版本 </p> </td> 
-   <td colname="col2"> <p>为页面定义的 <a href="https://experiencecloud.adobe.com/resources/help/zh_CN/sc/implement/appmeasure_mjs.html" format="html" scope="external">AppMeasurement</a> 版本 </p> </td> 
+   <td colname="col2"> <p>为页面定义的 <a href="https://docs.adobe.com/content/help/en/analytics/implementation/js/overview.html" format="html" scope="external">AppMeasurement</a> 版本 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>访客版本 </p> </td> 
-   <td colname="col2"> <p><a href="https://experiencecloud.adobe.com/resources/help/zh_CN/sc/implement/visid_analytics.html" format="html" scope="external">访客 ID</a> 库的版本。 </p> </td> 
+   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/en/analytics/technotes/visitor-identification.html" format="html" scope="external">访客 ID</a> 库的版本。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>页面名称 </p> </td> 
-   <td colname="col2"> <p>发送到 Analytics 的包含网站用户友好名称的 <a href="https://experiencecloud.adobe.com/resources/help/zh_CN/sc/implement/pageName.html" format="html" scope="external"> pageName</a> 变量。 </p> </td> 
+   <td colname="col2"> <p>发送到 Analytics 的包含网站用户友好名称的 <a href="https://docs.adobe.com/content/help/en/analytics/implementation/vars/page-vars/page-variables.html" format="html" scope="external"> pageName</a> 变量。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>模块 </p> </td> 
@@ -89,15 +89,15 @@ Debugger 将显示每个解决方案的以下信息：
  <tbody> 
   <tr> 
    <td colname="col1"> <p>合作伙伴 </p> </td> 
-   <td colname="col2"> <p>DIL 实例的<a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/r_dil_get_partner.html" format="html" scope="external">合作伙伴名称</a> </p> </td> 
+   <td colname="col2"> <p>DIL 实例的<a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/dil-api/dil-instance-methods.html#getpartner" format="html" scope="external">合作伙伴名称</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>版本 </p> </td> 
-   <td colname="col2"> <p>DIL 实例的<a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/r_api_return_versions_dil.html" format="html" scope="external">版本号</a> </p> </td> 
+   <td colname="col2"> <p>DIL 实例的<a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/api-and-sdk-code/rest-apis/aam-api-dil-methods.html#return-version-dil" format="html" scope="external">版本号</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>UUID </p> </td> 
-   <td colname="col2"> <p>与 DIL 实例关联的<a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/ids-in-aam.html" format="html" scope="external">唯一用户 ID</a> </p> </td> 
+   <td colname="col2"> <p>与 DIL 实例关联的<a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html" format="html" scope="external">唯一用户 ID</a> </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -108,19 +108,19 @@ Debugger 将显示每个解决方案的以下信息：
  <tbody> 
   <tr> 
    <td colname="col1"> <p>名称 </p> </td> 
-   <td colname="col2"> <p>Adobe Launch <a href="https://docs.adobelaunch.com/administration/companies-and-properties" format="https" scope="external">属性</a>的名称 </p> </td> 
+   <td colname="col2"> <p>Adobe Launch <a href="https://docs.adobe.com/content/help/en/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external">属性</a>的名称 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>版本 </p> </td> 
-   <td colname="col2"> <p><a href="https://developer.adobelaunch.com/guides/extensions/turbine-free-variable/" format="https" scope="external">Turbine</a> 的版本 </p> </td> 
+   <td colname="col2"> <p><a href="https://developer.adobelaunch.com/extensions/reference/turbine-free-variable/" format="https" scope="external">Turbine</a> 的版本 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>内部版本发布日期 </p> </td> 
-   <td colname="col2"> <p>Launch <a href="https://docs.adobelaunch.com/publishing/libraries" format="https" scope="external">库</a>的内部版本发布日期 </p> </td> 
+   <td colname="col2"> <p>Launch <a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/libraries.html" format="https" scope="external">库</a>的内部版本发布日期 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>环境 </p> </td> 
-   <td colname="col2"> <p>Launch 库使用的<a href="https://docs.adobelaunch.com/administration/environments" format="https" scope="external">环境</a> </p> </td> 
+   <td colname="col2"> <p>Launch 库使用的<a href="https://docs.adobe.com/content/help/en/launch/using/reference/publish/environments.html" format="https" scope="external">环境</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>脚本目录 </p> </td> 
@@ -135,7 +135,7 @@ Debugger 将显示每个解决方案的以下信息：
  <tbody> 
   <tr> 
    <td colname="col1"> <p>库名称 </p> </td> 
-   <td colname="col2"> <p>Adobe DTM <a href="https://experiencecloud.adobe.com/resources/help/zh_CN/dtm/library_management.html" format="html" scope="external">库</a>的名称 </p> </td> 
+   <td colname="col2"> <p>Adobe DTM <a href="https://docs.adobe.com/content/help/en/dtm/using/library-management.html" format="html" scope="external">库</a>的名称 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>版本 </p> </td> 
@@ -143,7 +143,7 @@ Debugger 将显示每个解决方案的以下信息：
   </tr> 
   <tr> 
    <td colname="col1"> <p>内部版本发布日期 </p> </td> 
-   <td colname="col2"> <p>Launch <a href="https://experiencecloud.adobe.com/resources/help/zh_CN/dtm/library_management.html" format="html" scope="external">库</a>的内部版本发布日期 </p> </td> 
+   <td colname="col2"> <p>Launch <a href="https://docs.adobe.com/content/help/en/dtm/using/library-management.html" format="html" scope="external">库</a>的内部版本发布日期 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>环境 </p> </td> 
@@ -162,11 +162,11 @@ Debugger 将显示每个解决方案的以下信息：
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Experience Cloud 组织 ID </p> </td> 
-   <td colname="col2"> <p>您的<a href="https://experiencecloud.adobe.com/resources/help/zh_CN/mcvid/" format="https" scope="external">组织 ID</a> </p> </td> 
+   <td colname="col2"> <p>您的<a href="https://docs.adobe.com/content/help/en/id-service/using/home.html" format="https" scope="external">组织 ID</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>版本 </p> </td> 
-   <td colname="col2"> <p><a href="https://experiencecloud.adobe.com/resources/help/zh_CN/sc/implement/visid_analytics.html" format="html" scope="external">访客 ID</a> 库的版本 </p> </td> 
+   <td colname="col2"> <p><a href="https://docs.adobe.com/content/help/en/analytics/technotes/visitor-identification.html" format="html" scope="external">访客 ID</a> 库的版本 </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -177,43 +177,43 @@ Debugger 将显示每个解决方案的以下信息：
  <tbody> 
   <tr> 
    <td colname="col1"> <p>客户端代码 </p> </td> 
-   <td colname="col2"> <p>您的 Target <a href="https://docs.adobe.com/content/help/zh-Hans/target/using/implement-target/client-side/deploy-at-js/implementing-target-without-a-tag-manager.html" format="html" scope="external">客户端代码</a> </p> </td> 
+   <td colname="col2"> <p>您的 Target <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/deploy-at-js/implementing-target-without-a-tag-manager.html" format="html" scope="external">客户端代码</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>版本 </p> </td> 
-   <td colname="col2"> <p>您当前的 <a href="https://docs.adobe.com/content/help/zh-Hans/target/using/implement-target/client-side/target-atjs-versions.html" format="html" scope="external">at.js</a> 或 mbox.js 版本 </p> </td> 
+   <td colname="col2"> <p>您当前的 <a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/target-atjs-versions.html" format="html" scope="external">at.js</a> 或 mbox.js 版本 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>全局 Mbox 名称 </p> </td> 
-   <td colname="col2"> <p><a href="https://docs.adobe.com/help/zh-Hans/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external">全局 Mbox</a> 是指在您实施的 Target 中，每个网页顶部发出的单个服务器调用 </p> </td> 
+   <td colname="col2"> <p><a href="https://docs.adobe.com/help/en/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external">全局 Mbox</a> 是指在您实施的 Target 中，每个网页顶部发出的单个服务器调用 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Mbox 名称 </p> </td> 
-   <td colname="col2"> <p>页面上某个<a href="https://docs.adobe.com/content/help/zh-Hans/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external">位置</a>周围的 mbox 的名称。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/zh-Hans/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
+   <td colname="col2"> <p>页面上某个<a href="https://docs.adobe.com/content/help/en/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external">位置</a>周围的 mbox 的名称。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>活动名称 </p> </td> 
-   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/zh-Hans/target/using/activities/activities.html" format="html" scope="external">营销活动或活动</a>的名称。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/zh-Hans/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
+   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/en/target/using/activities/activities.html" format="html" scope="external">营销活动或活动</a>的名称。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>活动 ID </p> </td> 
-   <td colname="col2"> <p>Target 活动的 ID。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/zh-Hans/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
+   <td colname="col2"> <p>Target 活动的 ID。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>方法名称 </p> </td> 
-   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/zh-Hans/target/using/experiences/experiences.html" format="html" scope="external">体验</a>的名称。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/zh-Hans/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
+   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/en/target/using/experiences/experiences.html" format="html" scope="external">体验</a>的名称。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>方法 ID </p> </td> 
-   <td colname="col2"> <p>Target 方法的 ID。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/zh-Hans/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
+   <td colname="col2"> <p>Target 方法的 ID。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>选件 </p> </td> 
-   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/zh-Hans/target/using/experiences/offers/manage-content.html" format="html" scope="external">选件</a>的名称。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/zh-Hans/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
+   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/en/target/using/experiences/offers/manage-content.html" format="html" scope="external">选件</a>的名称。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>选件 ID </p> </td> 
-   <td colname="col2"> <p>Target 选件的 ID。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/zh-Hans/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
+   <td colname="col2"> <p>Target 选件的 ID。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
   </tr> 
  </tbody> 
 </table>
