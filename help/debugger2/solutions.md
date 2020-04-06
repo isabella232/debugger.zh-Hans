@@ -6,16 +6,16 @@ seo-title: Adobe Debugger 中的“解决方案”选项卡
 title: “解决方案”选项卡
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 translation-type: tm+mt
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # 解决方案{#solution-tabs}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0目前处于测试阶段。 文档和功能可能会发生更改。
+>Adobe Experience Cloud Debugger 2.0目前处于测试阶段。 文档和功能可能会发生更改。
 
 单击某个解决方案可查看特定 Adobe Experience Cloud 解决方案的结果。
 
@@ -25,26 +25,26 @@ AEP Web SDK 屏幕可显示有关 Adobe Experience Platform Web SDK 的信息。
 
 ## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
 
-Analytics 屏幕可提供有关您的 [Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html) 实施方面的信息。
+Analytics 屏幕可提供有关您的 [Analytics](https://docs.adobe.com/content/help/zh-Hans/analytics/landing/home.html) 实施方面的信息。
 
 ![](assets/analytics.jpg)
 
 ## Target {#section-988873ba5ede4317953193bd7ac5474c}
 
-使用目标屏幕视图 [目标](https://docs.adobe.com/content/help/en/target/using/target-home.html) 请求<!-- or [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) response details-->。
+使用目标屏幕视图 [目标](https://docs.adobe.com/content/help/zh-Hans/target/using/target-home.html) 请求<!-- or [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) response details-->。
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
-可以使用 [Audience Manager](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html) 选项卡查看[事件](https://docs.adobe.com/content/help/en/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html)的详细信息。单击组织可将其展开并显示相关信息。
+可以使用 [Audience Manager](https://docs.adobe.com/content/help/zh-Hans/audience-manager/user-guide/aam-home.html) 选项卡查看[事件](https://docs.adobe.com/content/help/zh-Hans/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html)的详细信息。单击组织可将其展开并显示相关信息。
 
 ## Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-可使用 Launch 部分查看 Launch 请求。另外，您还可以单击 **[!UICONTROL Configuration]** 来配置[嵌入代码](https://docs.adobe.com/content/help/en/launch/using/reference/upgrade/link-dtm-embed-code.html)。您可以在 Debugger 中编辑、替换或添加更多的嵌入代码。如果您登录，则可以使用下拉框选择替代属性。
+可使用 Launch 部分查看 Launch 请求。另外，您还可以单击 **[!UICONTROL Configuration]** 来配置[嵌入代码](https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/upgrade/link-dtm-embed-code.html)。您可以在 Debugger 中编辑、替换或添加更多的嵌入代码。如果您登录，则可以使用下拉框选择替代属性。
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
-可以使用“Dynamic Tag Management”部分来查看 DTM 请求。另外，您还可以单击 **[!UICONTROL Configuration]** 来配置[嵌入代码](https://docs.adobe.com/content/help/en/dtm/using/client-side/code.html)。
+可以使用“Dynamic Tag Management”部分来查看 DTM 请求。另外，您还可以单击 **[!UICONTROL Configuration]** 来配置[嵌入代码](https://docs.adobe.com/content/help/zh-Hans/dtm/using/client-side/code.html)。
 
 ## Experience Cloud ID 服务 {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
-可以使用“Experience Cloud ID 服务”选项卡查看 [Experience Cloud ID 服务](https://docs.adobe.com/content/help/en/id-service/using/home.html)请求。
+可以使用“Experience Cloud ID 服务”选项卡查看 [Experience Cloud ID 服务](https://docs.adobe.com/content/help/zh-Hans/id-service/using/home.html)请求。
