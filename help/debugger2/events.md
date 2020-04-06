@@ -5,16 +5,16 @@ seo-description: 'null'
 seo-title: 事件
 title: 事件
 translation-type: tm+mt
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # 事件{#events}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0目前处于测试阶段。 文档和功能可能会发生更改。
+>Adobe Experience Cloud Debugger 2.0目前处于测试阶段。 文档和功能可能会发生更改。
 
 “事件”屏幕提供了一个关于若干事件的图形化视图；其中，将按照时间线显示所发生的事件。
 
