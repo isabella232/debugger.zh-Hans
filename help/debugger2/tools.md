@@ -6,16 +6,16 @@ seo-title: 工具
 title: 工具
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
 translation-type: tm+mt
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # 工具{#tools}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0目前处于测试阶段。 文档和功能可能会发生更改。
+>Adobe Experience Cloud Debugger 2.0目前处于测试阶段。 文档和功能可能会发生更改。
 
 在“工具”屏幕上，您可以为已安装的解决方案启用或禁用各种工具。例如，您可以打开 Target 的控制台调试语句或使用 DTM 暂存库。只有在页面上安装了 Target 和 DTM 时，才提供这些工具。
 
