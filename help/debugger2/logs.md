@@ -6,16 +6,16 @@ seo-title: 日志
 title: 日志
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
 translation-type: tm+mt
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # 日志{#logs}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0目前处于测试阶段。 文档和功能可能会发生更改。
+>Adobe Experience Cloud Debugger 2.0目前处于测试阶段。 文档和功能可能会发生更改。
 
 “日志”屏幕提供特定于DTM、Launch和AEP Web SDK实施的信息。 无需启用 DTM 的“控制台调试”工具即可显示此信息。您可以按照通过关联的 工具实施的解决方案进行筛选。
 
