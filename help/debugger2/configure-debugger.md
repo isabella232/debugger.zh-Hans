@@ -5,16 +5,16 @@ seo-description: 'null'
 seo-title: 配置Experience Cloud调试器
 title: 配置Experience Cloud调试器
 translation-type: tm+mt
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # 配置调试器
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0目前处于测试阶段。 文档和功能可能会发生更改。
+>Adobe Experience Cloud Debugger 2.0目前处于测试阶段。 文档和功能可能会发生更改。
 
 您可以配置调试器外观和工作方式的某些方面。
 
