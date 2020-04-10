@@ -5,7 +5,7 @@ seo-description: 使用 Adobe Debugger 中的“解决方案”选项卡
 seo-title: Adobe Debugger 中的“解决方案”选项卡
 title: “解决方案”选项卡
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
@@ -15,7 +15,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0目前处于测试阶段。 文档和功能可能会发生更改。
+>Adobe Experience Cloud Debugger 2.0 目前为 Beta 版。文档和功能可能会发生变化。
 
 单击某个解决方案可查看特定 Adobe Experience Cloud 解决方案的结果。
 
@@ -31,7 +31,7 @@ Analytics 屏幕可提供有关您的 [Analytics](https://docs.adobe.com/content
 
 ## Target {#section-988873ba5ede4317953193bd7ac5474c}
 
-使用目标屏幕视图 [目标](https://docs.adobe.com/content/help/zh-Hans/target/using/target-home.html) 请求<!-- or [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) response details-->。
+使用 Target 屏幕查看 [Target](https://docs.adobe.com/content/help/zh-Hans/target/using/target-home.html) 请求<!-- or [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) response details-->。
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
@@ -39,7 +39,7 @@ Analytics 屏幕可提供有关您的 [Analytics](https://docs.adobe.com/content
 
 ## Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-可使用 Launch 部分查看 Launch 请求。另外，您还可以单击 **[!UICONTROL Configuration]** 来配置[嵌入代码](https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/upgrade/link-dtm-embed-code.html)。您可以在 Debugger 中编辑、替换或添加更多的嵌入代码。如果您登录，则可以使用下拉框选择替代属性。
+可使用 Launch 部分查看 Launch 请求。另外，您还可以单击 **[!UICONTROL Configuration]** 来配置[嵌入代码](https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/upgrade/link-dtm-embed-code.html)。您可以在 Debugger 中编辑、替换或添加更多的嵌入代码。如果您已登录，则可以使用下拉列表选择替代属性。
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
