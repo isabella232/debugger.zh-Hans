@@ -5,7 +5,7 @@ seo-description: Adobe Experience Cloud 调试器 Chrome 扩展技术文档 - �
 seo-title: Adobe Experience Cloud 调试器 Chrome 扩展
 title: Adobe Experience Cloud 调试器扩展
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ---
@@ -17,7 +17,7 @@ source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 Adobe Experience Cloud 调试程序扩展可以与其他 Adobe 激活解决方案一起使用，完成诸如以下工作流程：
 
-1. 使用 [Launch](https://docs.adobe.com/content/help/en/launch/using/overview.html) 或 [DTM](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html) 插入可在您的页面上激活 [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html) 解决方案的代码。
+1. 使用 [Launch](https://docs.adobe.com/content/help/zh-Hans/launch/using/overview.translate.html) 或 [DTM](https://docs.adobe.com/content/help/zh-Hans/dtm/using/dtm-home.translate.html) 插入可在您的页面上激活 [Adobe Experience Cloud](https://docs.adobe.com/content/help/zh-Hans/experience-cloud/user-guides/home.html) 解决方案的代码。
 
 1. 使用 [Adobe Cloud Platform Auditor](https://docs.adobe.com/content/help/en/auditor/using/overview.html) 对您的实施进行测试。
 1. 使用 Adobe Experience Cloud Debugger 扩展来调试 Auditor 发现的问题或检查有关您实施的其他信息。
