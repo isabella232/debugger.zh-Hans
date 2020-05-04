@@ -5,13 +5,13 @@ seo-description: 'null'
 seo-title: 发行说明
 title: 发行说明
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: ht
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+translation-type: tm+mt
+source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
 
 ---
 
 
-# 发行说明{#release-notes}
+# 发行说明 {#release-notes}
 
 ## 发行说明 {#topic-a92c3eb799b74e7fa404af8af5efb215}
 
@@ -219,7 +219,7 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
   </tr> 
   <tr> 
    <td colname="col1"> <p>更新页脚中的帮助链接 </p> </td> 
-   <td colname="col2"> <p>将页脚中的帮助链接更新为 <a href="https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/" format="https" scope="external"> https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/</a> </p> </td> 
+   <td colname="col2"> <p>将页脚中的帮助链接更新到 <a href="https://docs.adobe.com/content/help/zh-Hans/debugger/using/experience-cloud-debugger.html" format="https" scope="external"> https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html</a> </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -242,7 +242,7 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Mbox 切换 </p> </td> 
+   <td colname="col1"> <p>Mbox切换 </p> </td> 
    <td colname="col2"> <p>在“目标”选项卡上添加了 Mbox 切换 </p> </td> 
   </tr> 
   <tr> 
