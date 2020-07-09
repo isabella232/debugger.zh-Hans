@@ -5,8 +5,11 @@ seo-description: Adobe Experience Cloud Debugger 2.0 Chrome 和 Firefox 扩展�
 seo-title: Adobe Experience Platform Debugger Chrome 和 Firefox 扩展
 title: Adobe Experience Platform Debugger 扩展
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 3a5b0b6d2d7dc18113c5909b878c882cf803bba6
+workflow-type: tm+mt
+source-wordcount: '307'
+ht-degree: 100%
 
 ---
 
@@ -36,3 +39,7 @@ Adobe Experience Platform Debugger 可以与其他 Adobe 激活解决方案一�
 
 * **Launch：**&#x200B;查看页面上部署的属性、环境和 Build。
 * **Target：**&#x200B;查看您有无资格执行哪些活动及原因。
+
+## 视频教程
+
+[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on)
