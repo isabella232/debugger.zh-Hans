@@ -5,8 +5,11 @@ seo-description: 'null'
 seo-title: 摘要屏幕
 title: 摘要屏幕
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: f35d87473f9e1e26f9a27272d7930472cc01c188
+workflow-type: tm+mt
+source-wordcount: '940'
+ht-degree: 100%
 
 ---
 
@@ -27,7 +30,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 这个屏幕可显示有关每个 Adobe Experience Cloud 解决方案的信息。所显示的信息因解决方案而异，但通常包括的信息有：解决方案库和版本（例如“AppMeasurement v2.9”），以及帐户标识符（例如 Analytics 报表包 ID、Target 客户端代码、Audience Manager 合作伙伴 ID 等）
 
-## Debugger 中显示的信息 {#section-88a95ba53dca43d9b96a585e75e5f5cf}
+## Debugger 中显示的信息
 
 Debugger 将显示每个解决方案的以下信息：
 
@@ -83,19 +86,19 @@ Debugger 将显示每个解决方案的以下信息：
  <tbody> 
   <tr> 
    <td colname="col1"> <p>名称 </p> </td> 
-   <td colname="col2"> <p>Adobe Launch <a href="https://docs.adobelaunch.com/administration/companies-and-properties" format="https" scope="external">属性</a>的名称 </p> </td> 
+   <td colname="col2"> <p>Adobe Launch <a href="https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external">属性</a>的名称 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>版本 </p> </td> 
-   <td colname="col2"> <p><a href="https://developer.adobelaunch.com/guides/extensions/turbine-free-variable/" format="https" scope="external">Turbine</a> 的版本 </p> </td> 
+   <td colname="col2"> <p>Turbine 的版本</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>内部版本发布日期 </p> </td> 
-   <td colname="col2"> <p>Launch <a href="https://docs.adobelaunch.com/publishing/libraries" format="https" scope="external">库</a>的内部版本发布日期 </p> </td> 
+   <td colname="col2"> <p>Launch <a href="https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/publish/libraries.html" format="https" scope="external">库</a>的内部版本发布日期 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>环境 </p> </td> 
-   <td colname="col2"> <p>Launch 库使用的<a href="https://docs.adobelaunch.com/administration/environments" format="https" scope="external">环境</a> </p> </td> 
+   <td colname="col2"> <p>Launch 库使用的<a href="https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/publish/environments.html" format="https" scope="external">环境</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>扩展 </p> </td> 
