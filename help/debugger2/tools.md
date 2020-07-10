@@ -5,11 +5,11 @@ seo-description: 'null'
 seo-title: 工具
 title: 工具
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 5a84797bda8c29f1e691de418c9837c76a63c17f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '396'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -73,7 +73,7 @@ ht-degree: 95%
   </tr> 
   <tr> 
    <td colname="col1"> <p> 启用 Mbox 追踪 </p> </td> 
-   <td colname="col2"> <p>此工具可向 Target 响应添加详细信息，这些信息可在 Debugger 的 <span class="uicontrol">Target &gt; Mbox 追踪</span>屏幕中查看。 </p> <p> 您必须登录到某个Chrome选项卡中的Experience Cloud才能启用此工具。 </p> </td> 
+   <td colname="col2"> <p>此工具可向 Target 响应添加详细信息，这些信息可在 Debugger 的 <span class="uicontrol">Target &gt; Mbox 追踪</span>屏幕中查看。 </p> <p> 您必须在其中一个 Chrome 选项卡上登录到 Experience Cloud，才能启用此工具。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>禁用 Target </p> </td> 
@@ -88,4 +88,4 @@ ht-degree: 95%
 
 以下视频介绍了如何将 Debugger 扩展与 Adobe Target 结合使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=chi_hans)
