@@ -3,9 +3,9 @@ description: 'null'
 keywords: debugger;experience cloud debugger extension;chrome;extension;auditor;dtm;target
 seo-description: 'null'
 title: Auditor
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4746e8eaf2bb16f2b93960fc6e34329c73271f81
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
 ht-degree: 100%
 
