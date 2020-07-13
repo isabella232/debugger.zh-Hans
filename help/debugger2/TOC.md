@@ -5,11 +5,11 @@ sub-product: experience cloud debugger 2.0
 audience: end-user
 user-guide-title: Experience Cloud Debugger 2.0 帮助
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: ed288779f14c817487da751b519b1f1c7707691b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '31'
+ht-degree: 100%
 
 ---
 
