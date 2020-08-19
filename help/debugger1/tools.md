@@ -1,12 +1,15 @@
 ---
-description: 'null'
+description: Experience Cloud Debugger工具屏幕
 keywords: debugger;experience cloud debugger extension;chrome;extension;tools;dtm;target
-seo-description: 'null'
+seo-description: Experience Cloud Debugger工具屏幕
 seo-title: 工具
 title: 工具
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: ht
-source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
+translation-type: tm+mt
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '388'
+ht-degree: 97%
 
 ---
 
@@ -81,4 +84,4 @@ source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 以下视频介绍了如何将 Debugger 扩展与 Adobe Target 结合使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
