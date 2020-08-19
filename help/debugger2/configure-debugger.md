@@ -1,11 +1,14 @@
 ---
-description: 'null'
+description: 如何配置Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;configure
-seo-description: 'null'
+seo-description: 如何配置Experience Cloud Debugger
 seo-title: 配置 Experience Cloud Debugger
 title: 配置 Experience Cloud Debugger
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '167'
+ht-degree: 92%
 
 ---
 
@@ -22,7 +25,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ## 浅色或深色模式
 
-在 Debugger 打开后，您可以通过转到 ****并选择&#x200B;**深色模式**（默认选项）或&#x200B;**浅色模式**来选择首选外观。
+在 Debugger 打开后，您可以通过转到 ****并选择**&#x200B;深色模式&#x200B;**（默认选项）或**&#x200B;浅色模式&#x200B;**来选择首选外观。
 
 ## 重置
 
