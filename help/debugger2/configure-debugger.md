@@ -5,10 +5,10 @@ seo-description: 如何配置Experience Cloud Debugger
 seo-title: 配置 Experience Cloud Debugger
 title: 配置 Experience Cloud Debugger
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: 7d6f4446560e9d0fb353f60139cea26e61e19f99
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 92%
+source-wordcount: '161'
+ht-degree: 84%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 92%
 
 ## 浅色或深色模式
 
-在 Debugger 打开后，您可以通过转到 ****并选择**&#x200B;深色模式&#x200B;**（默认选项）或**&#x200B;浅色模式&#x200B;**来选择首选外观。
+在 Debugger 打开后，您可以通过转到 **[!UICONTROL Settings]** 并选择&#x200B;**深色模式**（默认选项）或&#x200B;**浅色模式**&#x200B;来选择首选外观。
 
 ## 重置
 
-单击&#x200B;**[!UI 重置所有数据和设置]**，以清除所有数据并返回默认设置。
+单 **[!UICONTROL Reset all Data and Settings]** 击以返回以清除所有数据并返回默认设置。
 
 ## 在一个页面上锁定 Debugger
 
