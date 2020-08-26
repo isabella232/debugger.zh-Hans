@@ -1,14 +1,14 @@
 ---
-description: 如何配置Experience Cloud Debugger
+description: 如何配置 Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;configure
-seo-description: 如何配置Experience Cloud Debugger
+seo-description: 如何配置 Experience Cloud Debugger
 seo-title: 配置 Experience Cloud Debugger
 title: 配置 Experience Cloud Debugger
 translation-type: tm+mt
 source-git-commit: 7d6f4446560e9d0fb353f60139cea26e61e19f99
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 84%
+ht-degree: 91%
 
 ---
 
