@@ -1,15 +1,15 @@
 ---
-description: Experience Cloud Debugger摘要屏幕
+description: Experience Cloud Debugger 的“摘要”屏幕
 keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: Experience Cloud Debugger摘要屏幕
+seo-description: Experience Cloud Debugger 的“摘要”屏幕
 seo-title: 摘要屏幕
 title: 摘要屏幕
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '948'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
