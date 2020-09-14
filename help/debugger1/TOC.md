@@ -1,20 +1,20 @@
 ---
 cloud: experience-cloud
 product: experience cloud
-sub-product: experience cloud 调试器
+sub-product: experience cloud debugger
 audience: end-user
-user-guide-title: Experience Cloud 调试器帮助
+user-guide-title: Experience Cloud Debugger 帮助
 breadcrumb-title: Debugger Guide
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: dc7588274f4917ee8c7c35653f9a177fdd9f07f2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '30'
 ht-degree: 100%
 
 ---
 
 
-# Experience Cloud 调试器帮助 {#using}
+# Experience Cloud Debugger 帮助 {#using}
 
 + [Adobe Experience Cloud Debugger 扩展](experience-cloud-debugger.md)
 + [发行说明](release-notes.md)
