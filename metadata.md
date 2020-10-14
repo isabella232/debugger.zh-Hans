@@ -1,16 +1,19 @@
 ---
-cloud: experience-cloud
+cloud: experience-platform
 solution-title: 学习和支持
 solution-hub-url: https://helpx.adobe.com/cn/support/experience-cloud/core-services.html
-solution-image: help/assets/experience-cloud-logo-24.png
+solution-image: help/assets/experience-p-logo-24.png
 getting-started-title: 快速入门
 getting-started-url: https://helpx.adobe.com/cn/experience-cloud-core-services/get-started.html
 tutorials-title: 教程
 tutorials-url: https://helpx.adobe.com/cn/analytics/how-to/adobe-launch-publishing-process.html
-git-repo: https://github.com/AdobeDocs/debugger.en
+git-repo: https://git.corp.adobe.com/AdobeDocs/debugger.zh-Hans
 index: true
-translation-type: ht
-source-git-commit: d78218242347d004d2bf9737ba745d12673a06d5
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '134'
+ht-degree: 97%
 
 ---
 
