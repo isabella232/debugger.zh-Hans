@@ -1,15 +1,15 @@
 ---
-description: Experience Cloud Debugger 的“摘要”屏幕
-keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: Experience Cloud Debugger 的“摘要”屏幕
+description: Experience Platform调试器摘要屏幕
+keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
+seo-description: Experience Platform调试器摘要屏幕
 seo-title: 摘要屏幕
 title: 摘要屏幕
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '948'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '949'
+ht-degree: 96%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 目前为 Beta 版。文档和功能可能会发生变化。
+>Adobe Experience Platform调试器当前为测试版。 文档和功能可能会发生变化。
 
 要运行 Adobe Experience Platform Debugger，请单击浏览器栏上的图标，然后打开要在浏览器中检查的页面。
 
@@ -30,9 +30,9 @@ ht-degree: 100%
 
 这个屏幕可显示有关每个 Adobe Experience Cloud 解决方案的信息。所显示的信息因解决方案而异，但通常包括的信息有：解决方案库和版本（例如“AppMeasurement v2.9”），以及帐户标识符（例如 Analytics 报表包 ID、Target 客户端代码、Audience Manager 合作伙伴 ID 等）
 
-## Debugger 中显示的信息
+## Experience Platform调试器中显示的信息
 
-Debugger 将显示每个解决方案的以下信息：
+Experience Platform调试器显示每个解决方案的以下信息：
 
 **Adobe Analytics**
 
