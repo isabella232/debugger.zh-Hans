@@ -1,12 +1,15 @@
 ---
-description: 使用 Adobe Debugger 中的“解决方案”选项卡
-keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
-seo-description: 使用 Adobe Debugger 中的“解决方案”选项卡
-seo-title: Adobe Debugger 中的“解决方案”选项卡
+description: 使用Adobe Experience Platform调试器中的“解决方案”选项卡
+keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
+seo-description: '使用Adobe Experience Platform调试器中的“解决方案”选项卡 '
+seo-title: 'Adobe Experience Platform调试器中的解决方案选项卡 '
 title: “解决方案”选项卡
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '269'
+ht-degree: 82%
 
 ---
 
@@ -15,7 +18,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 目前为 Beta 版。文档和功能可能会发生变化。
+>Adobe Experience Platform调试器当前为测试版。 文档和功能可能会发生变化。
 
 单击某个解决方案可查看特定 Adobe Experience Cloud 解决方案的结果。
 
@@ -39,7 +42,7 @@ Analytics 屏幕可提供有关您的 [Analytics](https://docs.adobe.com/content
 
 ## Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-可使用 Launch 部分查看 Launch 请求。另外，您还可以单击 **[!UICONTROL Configuration]** 来配置[嵌入代码](https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/upgrade/link-dtm-embed-code.html)。您可以在 Debugger 中编辑、替换或添加更多的嵌入代码。如果您已登录，则可以使用下拉列表选择替代属性。
+可使用 Launch 部分查看 Launch 请求。另外，您还可以单击 **[!UICONTROL Configuration]** 来配置[嵌入代码](https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/upgrade/link-dtm-embed-code.html)。您可以从Experience Platform调试器中编辑、替换或添加更多嵌入代码。 如果您已登录，则可以使用下拉列表选择替代属性。
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
