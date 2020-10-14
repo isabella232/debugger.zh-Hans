@@ -1,14 +1,14 @@
 ---
-description: Experience Cloud Debugger 的“事件”屏幕
-keywords: debugger;experience cloud debugger extension;chrome;extension;events;dtm;target
-seo-description: Experience Cloud Debugger 的“事件”屏幕
+description: Experience Platform调试器事件屏幕
+keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
+seo-description: Experience Platform调试器事件屏幕
 seo-title: 事件
 title: 事件
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '172'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '169'
+ht-degree: 89%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 目前为 Beta 版。文档和功能可能会发生变化。
+>Adobe Experience Platform调试器当前为测试版。 文档和功能可能会发生变化。
 
 “事件”屏幕提供了一个关于若干事件的图形化视图；其中，将按照时间线显示所发生的事件。
 
 ![](assets/events.jpg)
 
-对于每个事件，时间线上都会显示一个与之适用的 Experience Cloud 解决方案图标。另外，还将显示反映数据层变更的图标（如果启用）。将鼠标悬停在图标上可获取相应事件的摘要信息。单击事件可了解更多详情。按住 Shift 键的同时单击或按住 Control 键的同时单击，可以查看多个事件。
+对于每个事件，时间线上都会显示一个与之适用的 解决方案图标。另外，还将显示反映数据层变更的图标（如果启用）。将鼠标悬停在图标上可获取相应事件的摘要信息。单击事件可了解更多详情。按住 Shift 键的同时单击或按住 Control 键的同时单击，可以查看多个事件。
 
 ![](assets/events-details.jpg)
 
