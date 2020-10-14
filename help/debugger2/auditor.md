@@ -1,13 +1,13 @@
 ---
 description: 关于 Adobe Experience Platform Auditor
-keywords: debugger;experience cloud debugger extension;chrome;extension;auditor;dtm;target
+keywords: debugger;experience platform debugger extension;chrome;extension;auditor;dtm;target
 seo-description: 关于 Adobe Experience Platform Auditor
 title: Auditor
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '82'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '81'
+ht-degree: 90%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 目前为 Beta 版。文档和功能可能会发生变化。
+>Adobe Experience Platform调试器当前为测试版。 文档和功能可能会发生变化。
 
 您可以运用 Adobe Experience Platform [Auditor](https://docs.adobe.com/content/help/zh-Hans/auditor/using/overview.html)，在 Auditor 屏幕上对您的页面运行一系列审核。
 
