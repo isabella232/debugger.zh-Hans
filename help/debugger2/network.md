@@ -1,15 +1,15 @@
 ---
-description: Experience Platform调试器网络屏幕
+description: Experience Platform Debugger 的“网络”屏幕
 keywords: debugger;experience Platform Debugger extension;chrome;extension;network;information
-seo-description: Experience Platform调试器网络屏幕
+seo-description: Experience Platform Debugger 的“网络”屏幕
 seo-title: 网络信息
 title: 网络信息
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '227'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 92%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform调试器当前为测试版。 文档和功能可能会发生变化。
+>Adobe Experience Platform Debugger 目前为 Beta 版。文档和功能可能会发生变化。
 
 要查看网络信息，请单击 **[!UICONTROL Network]**。
 
