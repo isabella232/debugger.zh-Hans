@@ -1,15 +1,15 @@
 ---
-description: Experience Platform调试器日志屏幕
+description: Experience Platform Debugger 的“日志”屏幕
 keywords: debugger;experience Platform Debugger extension;chrome;extension;logs
-seo-description: Experience Platform调试器日志屏幕
+seo-description: Experience Platform Debugger 的“日志”屏幕
 seo-title: 日志
 title: 日志
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 88%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform调试器当前为测试版。 文档和功能可能会发生变化。
+>Adobe Experience Platform Debugger 目前为 Beta 版。文档和功能可能会发生变化。
 
 “日志”屏幕提供特定于 DTM、Launch 和 AEP Web SDK 实施的信息。无需启用 DTM 的“控制台调试”工具即可显示此信息。您可以通过关联的工具，按照实施的解决方案进行筛选。
 
