@@ -1,14 +1,14 @@
 ---
-description: Experience Platform调试器事件屏幕
+description: Experience Platform Debugger 的“事件”屏幕
 keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
-seo-description: Experience Platform调试器事件屏幕
+seo-description: Experience Platform Debugger 的“事件”屏幕
 seo-title: 事件
 title: 事件
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 89%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform调试器当前为测试版。 文档和功能可能会发生变化。
+>Adobe Experience Platform Debugger 目前为 Beta 版。文档和功能可能会发生变化。
 
 “事件”屏幕提供了一个关于若干事件的图形化视图；其中，将按照时间线显示所发生的事件。
 
