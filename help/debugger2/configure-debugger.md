@@ -1,14 +1,14 @@
 ---
-description: 如何配置Experience Platform调试器
+description: 如何配置 Experience Platform Debugger
 keywords: debugger;experience platform debugger extension;chrome;extension;configure
-seo-description: 如何配置Experience Platform调试器
-seo-title: 配置Experience Platform调试器
-title: 配置Experience Platform调试器
-translation-type: tm+mt
+seo-description: 如何配置 Experience Platform Debugger
+seo-title: 配置 Experience Platform Debugger
+title: 配置 Experience Platform Debugger
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '172'
-ht-degree: 35%
+ht-degree: 100%
 
 ---
 
@@ -17,23 +17,23 @@ ht-degree: 35%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform调试器当前为测试版。 文档和功能可能会发生变化。
+>Adobe Experience Platform Debugger 目前为 Beta 版。文档和功能可能会发生变化。
 
-您可以配置Experience Platform调试器外观和工作方式的某些方面。
+您可以在外观和工作方式上，对 Experience Platform Debugger 进行某些方面的配置。
 
 ![](assets/settings.jpg)
 
 ## 浅色或深色模式
 
-After Experience Platform Debugger opens, you can select your preferred appearance by going to **[!UICONTROL Settings]** and selecting either **Dark Mode** (default) or **Light Mode**.
+在 Experience Platform Debugger 打开后，您可以通过转到 **[!UICONTROL Settings]** 并选择&#x200B;**深色模式**（默认选项）或&#x200B;**浅色模式**&#x200B;来选择首选外观。
 
 ## 重置
 
 单击 **[!UICONTROL Reset all Data and Settings]** 可返回到清除所有数据并恢复默认设置的状态。
 
-## 在一页上锁定Experience Platform调试器
+## 将 Experience Platform Debugger 锁定在某个页面上
 
-当您更改站点上的页面时，“Experience Platform调试器”窗口将更新以显示该页面的信息。 在屏幕底部，将显示您所连接的页面的名称。To keep Experience Platform Debugger locked on one page, click **[!UICONTROL Lock]** in the bottom right corner of the Experience Platform Debugger window.
+当您在网站上变更页面时，Experience Platform Debugger 窗口会随之更新，以显示相应页面的信息。在屏幕底部，将显示您所连接的页面的名称。若要将 Experience Platform Debugger 锁定在某个页面上，请单击 Experience Platform Debugger 窗口右下角的 **[!UICONTROL Lock]**。
 
 ![](assets/lock.jpg)
 
