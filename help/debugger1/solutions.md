@@ -5,8 +5,11 @@ seo-description: 使用 Adobe Debugger 中的“解决方案”选项卡
 seo-title: Adobe Debugger 中的“解决方案”选项卡
 title: “解决方案”选项卡
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
-source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '1063'
+ht-degree: 94%
 
 ---
 
@@ -33,7 +36,7 @@ source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ![](assets/analytics-hits-expand.jpg)
 
-此屏幕显示自 Debugger 打开或请求被清除以来发出的所有请求。默认参数会自动映射到友好名称。如果使用“链接 Analytics”功能进行身份验证（请参阅下文），[Prop 和 eVar](https://docs.adobe.com/content/help/zh-Hans/analytics/implementation/vars/page-vars/evar.html) 变量可以映射到您的自定义友好名称（例如，“prop1”可以显示为“用户类型”）。将按从左到右的顺序显示请求。
+此屏幕显示自打开Adobe Experience Platform调试器或清除请求以来的所有请求。 默认参数会自动映射到友好名称。如果使用“链接 Analytics”功能进行身份验证（请参阅下文），[Prop 和 eVar](https://docs.adobe.com/content/help/zh-Hans/analytics/implementation/vars/page-vars/evar.html) 变量可以映射到您的自定义友好名称（例如，“prop1”可以显示为“用户类型”）。将按从左到右的顺序显示请求。
 
 **下载：**&#x200B;以 Excel 电子表格形式保存所有对报表包发出的请求。
 
@@ -41,7 +44,7 @@ source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 **关联帐户（旧版）**
 
-单击 **[!UICONTROL Link Account]**，然后输入请求将 Analytics 帐户关联到 Debugger 的信息。
+Click **[!UICONTROL Link Account]**, then enter the requested information to link an Analytics account to the Platform Debugger.
 
 >[!NOTE]
 >
@@ -53,7 +56,7 @@ source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 如果要在运行处理规则之后查看 Analytics 点击量值，请启用“检索处理后的点击量”选项。您必须登录到 Adobe Experience Cloud 才能使用此功能。
 
-启用此选项后，将向 Analytics 请求添加一个调试参数。将会像任何其他点击量一样继续处理此点击量。Debugger 会轮询 Analytics 调试 API，以检索具有原始点击 ID 的任何点击量的后处理规则值。后处理点击量具有紫色背景，显示在原始点击量旁边。
+启用此选项后，将向 Analytics 请求添加一个调试参数。将会像任何其他点击量一样继续处理此点击量。平台调试器轮询Analytics调试API，以检索具有原始点击ID的任何点击的后处理规则值。 后处理点击量具有紫色背景，显示在原始点击量旁边。
 
 对于大多数 Analytics 实施，在几分钟内即可获得后处理规则信息。Analytics for Target (A4T) 实施所需的时间则要长很多。
 
@@ -85,11 +88,11 @@ source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 以下视频演示了 Target 的一般功能：
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
 
 以下视频演示了 Mbox 追踪：
 
->[!VIDEO](https://video.tv.adobe.com/v/23113t2/?captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23113t2/)
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
