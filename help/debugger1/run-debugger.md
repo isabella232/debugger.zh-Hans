@@ -5,22 +5,22 @@ seo-description: 运行 Experience Cloud Debugger
 seo-title: 摘要屏幕
 title: 摘要屏幕
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '1035'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '1047'
+ht-degree: 89%
 
 ---
 
 
 # 摘要屏幕{#summary-screen}
 
-要运行 Experience Cloud Debugger，请单击扩展栏中的扩展图标，然后在 Chrome 中打开要检查的页面。
+要运行Adobe Experience Cloud调试器，请单击扩展栏中的扩展图标，然后打开要在Chrome中检查的页面。
 
 ![](assets/start-icon.jpg)
 
-此时将显示 Adobe Experience Cloud Debugger 的“摘要”屏幕。
+此时将显示 Experience Cloud Debugger 的“摘要”屏幕。
 
 ![](assets/summary.jpg)
 
@@ -32,13 +32,13 @@ ht-degree: 100%
 
 ![](assets/summary-target2.jpg)
 
-## 在 Auditor 中运行审核 {#section-82bc57440406461ebf27a16855b71655}
+## 在Adobe Experience Platform审计师中运行审计 {#section-82bc57440406461ebf27a16855b71655}
 
-您可以使用 Adobe Auditor 在您的页面上运行一系列审核。要运行 Auditor，请单击顶部菜单中的 **[!UICONTROL Auditor]**，然后单击 **[!UICONTROL Audit Page Now]**。要打开 Adobe Auditor，请单击 **[!UICONTROL Run Multi-Page Audit Now]**。
+您可以使用Plaform Auditor在您的页面上执行一系列审核。 To run Platform Auditor, click **[!UICONTROL Auditor]** in the top menu, then click **[!UICONTROL Audit Page Now]**. To open Platform Auditor, click **[!UICONTROL Run Multi-Page Audit Now]**.
 
-## Debugger 中显示的信息 {#section-88a95ba53dca43d9b96a585e75e5f5cf}
+## Information shown in Experience Cloud Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
-Debugger 将显示每个解决方案的以下信息：
+Experience Cloud Debugger显示每个解决方案的以下信息：
 
 **页面信息**
 
@@ -105,13 +105,13 @@ Debugger 将显示每个解决方案的以下信息：
  </tbody> 
 </table>
 
-**Adobe Launch**
+**Adobe Experience Platform Launch**
 
 <table id="table_E9574975444A407887E26514D1BB1601"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>名称 </p> </td> 
-   <td colname="col2"> <p>Adobe Launch <a href="https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external">属性</a>的名称 </p> </td> 
+   <td colname="col2"> <p>The name of the Platform Launch <a href="https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> property</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>版本 </p> </td> 
@@ -119,15 +119,15 @@ Debugger 将显示每个解决方案的以下信息：
   </tr> 
   <tr> 
    <td colname="col1"> <p>内部版本发布日期 </p> </td> 
-   <td colname="col2"> <p>Launch <a href="https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/publish/libraries.html" format="https" scope="external">库</a>的内部版本发布日期 </p> </td> 
+   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/publish/libraries.html" format="https" scope="external"> library</a> build date </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>环境 </p> </td> 
-   <td colname="col2"> <p>Launch 库使用的<a href="https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/publish/environments.html" format="https" scope="external">环境</a> </p> </td> 
+   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/publish/environments.html" format="https" scope="external"> environment</a> used by the Platform Launch library </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>脚本目录 </p> </td> 
-   <td colname="col2"> <p>存储 Launch 脚本的目录 </p> </td> 
+   <td colname="col2"> <p>平台启动脚本的存储目录 </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -146,7 +146,7 @@ Debugger 将显示每个解决方案的以下信息：
   </tr> 
   <tr> 
    <td colname="col1"> <p>内部版本发布日期 </p> </td> 
-   <td colname="col2"> <p>Launch <a href="https://docs.adobe.com/content/help/zh-Hans/dtm/using/library-management.html" format="html" scope="external">库</a>的内部版本发布日期 </p> </td> 
+   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/zh-Hans/dtm/using/library-management.html" format="html" scope="external"> library</a> build date </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>环境 </p> </td> 
