@@ -5,11 +5,11 @@ seo-description: Experience Platform Debugger 的“摘要”屏幕
 seo-title: 摘要屏幕
 title: 摘要屏幕
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: ht
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: ht
-source-wordcount: '949'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '957'
+ht-degree: 92%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 >
 >Adobe Experience Platform Debugger 目前为 Beta 版。文档和功能可能会发生变化。
 
-要运行 Adobe Experience Platform Debugger，请单击浏览器栏上的图标，然后打开要在浏览器中检查的页面。
+要运行Adobe Experience Platform调试器，请单击浏览器栏上的图标，然后打开要在浏览器中检查的页面。
 
 ![](assets/start-icon.jpg)
 
@@ -80,13 +80,13 @@ Experience Platform Debugger 将显示每个解决方案的以下信息：
  </tbody> 
 </table>
 
-**Adobe Launch**
+**Adobe Experience Platform Launch**
 
 <table id="table_E9574975444A407887E26514D1BB1601"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>名称 </p> </td> 
-   <td colname="col2"> <p>Adobe Launch <a href="https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external">属性</a>的名称 </p> </td> 
+   <td colname="col2"> <p>The name of the Platform Launch <a href="https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> property</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>版本 </p> </td> 
@@ -94,11 +94,11 @@ Experience Platform Debugger 将显示每个解决方案的以下信息：
   </tr> 
   <tr> 
    <td colname="col1"> <p>内部版本发布日期 </p> </td> 
-   <td colname="col2"> <p>Launch <a href="https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/publish/libraries.html" format="https" scope="external">库</a>的内部版本发布日期 </p> </td> 
+   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/publish/libraries.html" format="https" scope="external"> library</a> build date </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>环境 </p> </td> 
-   <td colname="col2"> <p>Launch 库使用的<a href="https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/publish/environments.html" format="https" scope="external">环境</a> </p> </td> 
+   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/publish/environments.html" format="https" scope="external"> environment</a> used by the Platform Launch library </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>扩展 </p> </td> 
@@ -107,13 +107,13 @@ Experience Platform Debugger 将显示每个解决方案的以下信息：
  </tbody> 
 </table>
 
-**Adobe Web SDK**
+**Adobe Experience PlatformWeb SDK**
 
 <table id="table_DC76D63FA6EF4891906B9E1D3E4A8A6C"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>库版本 </p> </td> 
-   <td colname="col2"> <p>AEB Web SDK <a href="https://docs.adobe.com/content/help/zh-Hans/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">库版本</a>的编号 </p> </td> 
+   <td colname="col2"> <p>Adobe Experience PlatformWeb SDK库版 <a href="https://docs.adobe.com/content/help/zh-Hans/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">本号</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>命名空间</p> </td> 
@@ -121,7 +121,7 @@ Experience Platform Debugger 将显示每个解决方案的以下信息：
   </tr> 
   <tr> 
    <td colname="col1"> <p>属性 ID </p> </td> 
-   <td colname="col2"> <p>扩展中指定的 Launch 属性的名称 </p> </td> 
+   <td colname="col2"> <p>扩展中指定的平台启动属性的名称 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>边缘域 </p> </td> 
@@ -194,7 +194,7 @@ Experience Platform Debugger 将显示每个解决方案的以下信息：
    <td colname="col2"> <p>Target 体验的 ID。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/zh-Hans/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>选件名称</p> </td> 
+   <td colname="col1"> <p>优惠名称</p> </td> 
    <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/zh-Hans/target/using/experiences/offers/manage-content.html" format="html" scope="external">选件</a>的名称。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/zh-Hans/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
   </tr> 
   <tr> 
