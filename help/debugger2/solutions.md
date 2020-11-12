@@ -5,11 +5,11 @@ seo-description: '使用 Adobe Experience Platform Debugger 中的“解决方�
 seo-title: 'Adobe Experience Platform Debugger 中的“解决方案”选项卡 '
 title: “解决方案”选项卡
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: ht
-source-wordcount: '269'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '280'
+ht-degree: 88%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 100%
 
 单击某个解决方案可查看特定 Adobe Experience Cloud 解决方案的结果。
 
-## AEP Web SDK {#aep}
+## Adobe Experience Platform Web SDK {#aep}
 
-AEP Web SDK 屏幕可显示有关 Adobe Experience Platform Web SDK 的信息。单击 **[!UICONTROL Configure]** 可打开或关闭控制台日志记录。
+Adobe Experience PlatformWeb SDK屏幕显示有关Adobe Experience PlatformWeb SDK的信息。 单击 **[!UICONTROL Configure]** 可打开或关闭控制台日志记录。
 
 ## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
 
@@ -40,9 +40,9 @@ Analytics 屏幕可提供有关您的 [Analytics](https://docs.adobe.com/content
 
 可以使用 [Audience Manager](https://docs.adobe.com/content/help/zh-Hans/audience-manager/user-guide/aam-home.html) 选项卡查看[事件](https://docs.adobe.com/content/help/zh-Hans/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html)的详细信息。单击组织可将其展开并显示相关信息。
 
-## Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
+## Adobe Experience Platform Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-可使用 Launch 部分查看 Launch 请求。另外，您还可以单击 **[!UICONTROL Configuration]** 来配置[嵌入代码](https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/upgrade/link-dtm-embed-code.html)。您可以在 Experience Platform Debugger 中编辑、替换或添加更多嵌入代码。如果您已登录，则可以使用下拉列表选择替代属性。
+使用Adobe Experience Platform Launch部分视图平台启动请求。 另外，您还可以单击 **[!UICONTROL Configuration]** 来配置[嵌入代码](https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/upgrade/link-dtm-embed-code.html)。您可以在 Experience Platform Debugger 中编辑、替换或添加更多嵌入代码。如果您已登录，则可以使用下拉列表选择替代属性。
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
