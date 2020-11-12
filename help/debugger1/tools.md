@@ -5,11 +5,11 @@ seo-description: Experience Cloud Debugger 的“工具”屏幕
 seo-title: 工具
 title: 工具
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '388'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '392'
+ht-degree: 92%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 ![](assets/tools.jpg)
 
-您可以在任何页面上动态插入 Launch 或 DTM，以在未安装 Launch 或 DTM 的页面上测试某些内容。单击 **[!UICONTROL Embed Code]** 图标，然后键入您的[嵌入代码](https://docs.adobe.com/content/help/zh-Hans/dtm/using/client-side/deployment.html)并单击 **[!UICONTROL Save]**。
+您可以在任何页面上动态插入Adobe Experience Platform Launch或DTM，以测试未安装平台启动或DTM的页面上的某些内容。 单击 **[!UICONTROL Embed Code]** 图标，然后键入您的[嵌入代码](https://docs.adobe.com/content/help/zh-Hans/dtm/using/client-side/deployment.html)并单击 **[!UICONTROL Save]**。
 
 ![](assets/tools-embedcode.jpg)
 
@@ -84,4 +84,4 @@ ht-degree: 100%
 
 以下视频介绍了如何将 Debugger 扩展与 Adobe Target 结合使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
