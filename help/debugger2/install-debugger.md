@@ -5,11 +5,11 @@ seo-description: 如何安装 Experience Platform Debugger
 seo-title: 安装 Experience Platform Debugger
 title: 安装 Experience Platform Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 92%
 >
 >Adobe Experience Platform Debugger 目前为 Beta 版。文档和功能可能会发生变化。
 
-下载并安装Adobe Experience Platform调试器。
+下载并安装 Adobe Experience Platform Debugger。
 
 * **Chrome：**&#x200B;从 [Chrome 扩展页面](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
 * **Firefox：**&#x200B;从 [Firefox 加载项页面](https://addons.mozilla.org/zh-CN/firefox/addon/adobe-experience-platform-dbg/)
