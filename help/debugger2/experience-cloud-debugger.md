@@ -5,11 +5,11 @@ seo-description: Adobe Experience Platform Debugger Chrome 和 Firefox 扩展技
 seo-title: Adobe Experience Platform Debugger Chrome 和 Firefox 扩展
 title: Adobe Experience Platform Debugger 扩展
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '307'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -20,26 +20,26 @@ ht-degree: 62%
 >
 >Adobe Experience Platform Debugger 目前为 Beta 版。文档和功能可能会发生变化。
 
-[Adobe Experience PlatformChrome和Firefox](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) 调 [试程序](https://addons.mozilla.org/zh-CN/firefox/addon/adobe-experience-platform-dbg/) 会检查您的网页，并帮助您找到如何实施Experience Cloud解决方案的问题。
+[适用于 Chrome 的 Adobe Experience Platform Debugger](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) 和[适用于 Firefox 的 Adobe Experience Platform Debugger](https://addons.mozilla.org/zh-CN/firefox/addon/adobe-experience-platform-dbg/) 可检查您的网页，帮助您发现 Experience Cloud 解决方案的实施存在哪些问题。
 
-将平台调试器与其他Adobe激活解决方案结合使用，以处理如下工作流：
+Platform Debugger 可以与其他 Adobe 激活解决方案一起使用，完成诸如以下工作流程：
 
 1. 使用 [Launch](https://docs.adobe.com/content/help/zh-Hans/launch/using/overview.translate.html) 或 [DTM](https://docs.adobe.com/content/help/zh-Hans/dtm/using/dtm-home.translate.html) 插入可在您的页面上激活 [Adobe Experience Cloud](https://docs.adobe.com/content/help/zh-Hans/core-services/interface/experience-cloud.html) 解决方案的代码。
 
-1. Use [Adobe Experience Platform Auditor](https://experiencecloud.adobe.com/resources/help/en_US/auditor/) to test your implementations.
+1. 使用 [Adobe Experience Platform Auditor](https://experiencecloud.adobe.com/resources/help/en_US/auditor/) 对您的实施进行测试。
 1. 使用 Adobe Experience Platform Debugger 来调试 Auditor 发现的问题，或检查有关您的实施的其他信息。
 
 不一定按照列出的顺序执行上述步骤，但这是一个常见的流程。
 
-尽管您可以在任何网页上运行平台调试器，但只有在通过一个打开的Chrome选项卡的Experience Cloud验证后，任何非公共数据才在扩展中可用。
+尽管您可以在任何网页上运行 Platform Debugger，但是只有当您在其中一个打开的 Chrome 标签页上通过 Experience Cloud 身份验证之后，才能在该扩展中使用任何非公共数据。
 
 ## 用例 {#section-9fcd0583ed184943a8f0c2d3c00658e0}
 
-使用平台调试器收集有助于您了解如何实现Experience Cloud解决方案的信息。 例如：
+使用 Platform Debugger 收集有助于了解 Experience Cloud 解决方案实施情况的信息。例如：
 
-* **Adobe Experience Platform Launch:** 查看在页面上部署哪些属性、环境和内部版本。
+* **Adobe Experience Platform Launch：**&#x200B;查看页面上部署的资产、环境和内部版本。
 * **Target：**&#x200B;查看您有无资格执行哪些活动及原因。
 
 ## 视频教程
 
->[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on&captions=chi_hans)
