@@ -5,16 +5,16 @@ seo-description: Experience Cloud Debugger 安装说明
 seo-title: 安装 Experience Cloud Debugger
 title: 安装 Experience Cloud Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
 
-# Install Adobe Experience Cloud Debugger{#install-experience-cloud-debugger}
+# 安装 Adobe Experience Cloud Debugger{#install-experience-cloud-debugger}
 
 从 [Chrome 扩展程序页面](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)下载并安装适用于 Chrome 的 Adobe Experience Cloud 调试器扩展。
 
@@ -22,4 +22,4 @@ ht-degree: 91%
 
 ![](assets/start-icon.jpg)
 
->[!VIDEO](https://video.tv.adobe.com/v/23114t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23114t2/?captions=chi_hans)
