@@ -5,9 +5,9 @@ seo-description: '使用 Adobe Experience Platform Debugger 中的“解决方�
 seo-title: 'Adobe Experience Platform Debugger 中的“解决方案”选项卡 '
 title: “解决方案”选项卡
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 100%
 
