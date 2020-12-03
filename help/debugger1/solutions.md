@@ -5,9 +5,9 @@ seo-description: 使用 Adobe Debugger 中的“解决方案”选项卡
 seo-title: Adobe Debugger 中的“解决方案”选项卡
 title: “解决方案”选项卡
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1063'
 ht-degree: 100%
 
@@ -88,11 +88,11 @@ ht-degree: 100%
 
 以下视频演示了 Target 的一般功能：
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
 
 以下视频演示了 Mbox 追踪：
 
->[!VIDEO](https://video.tv.adobe.com/v/23113t2/?captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/23113t2/)
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
