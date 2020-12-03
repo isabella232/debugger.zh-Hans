@@ -4,9 +4,9 @@ keywords: debugger;experience platform debugger extension;chrome;extension;event
 seo-description: Experience Platform Debugger 的“事件”屏幕
 seo-title: 事件
 title: 事件
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 100%
 
