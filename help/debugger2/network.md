@@ -5,9 +5,9 @@ seo-description: Experience Platform Debugger 的“网络”屏幕
 seo-title: 网络信息
 title: 网络信息
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 100%
 
