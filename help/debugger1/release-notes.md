@@ -1,6 +1,6 @@
 ---
 description: Experience Cloud Debugger 的发行说明
-keywords: debugger;experience cloud debugger extension;chrome;extension;release notes
+keywords: 调试器;experience cloud 调试器扩展;chrome;扩展;发行说明
 seo-description: Experience Cloud Debugger 的发行说明
 seo-title: 发行说明
 title: 发行说明
@@ -8,7 +8,7 @@ uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '723'
+source-wordcount: '732'
 ht-degree: 100%
 
 ---
