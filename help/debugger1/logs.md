@@ -1,18 +1,18 @@
 ---
 description: Experience Cloud Debugger 的“日志”屏幕
-keywords: debugger;experience cloud debugger extension;chrome;extension;logs
+keywords: debugger;experience cloud debugger 扩展程序;chrome;扩展程序;日志
 seo-description: Experience Cloud Debugger 的“日志”屏幕
 seo-title: 日志
 title: 日志
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
-source-wordcount: '92'
+exl-id: 6d015129-8ac3-411e-829c-8f58ec1fdde3
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '100'
 ht-degree: 100%
 
 ---
-
 
 # 日志{#logs}
 
