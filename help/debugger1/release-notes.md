@@ -1,24 +1,24 @@
 ---
 description: Experience Cloud Debugger 的发行说明
-keywords: 调试器;experience cloud 调试器扩展;chrome;扩展;发行说明
+keywords: debugger;experience cloud debugger 扩展程序;chrome;扩展程序;发行说明
 seo-description: Experience Cloud Debugger 的发行说明
 seo-title: 发行说明
 title: 发行说明
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+exl-id: 1c81a0f2-81ae-4f29-8c48-45e755cabb07
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
 source-wordcount: '732'
 ht-degree: 100%
 
 ---
 
-
 # 发行说明 {#release-notes}
 
 ## 发行说明 {#topic-a92c3eb799b74e7fa404af8af5efb215}
 
-## 0.0.817 版 - 2019 年 5 月 17 日 {#topic-5dc9026cac864330b04361b1da8309a8}
+## 0.0.817 版 — 2019 年 5 月 17 日 {#topic-5dc9026cac864330b04361b1da8309a8}
 
 ## 新增功能 {#section-71352536e6894ad08f307535529394cd}
 
@@ -37,7 +37,7 @@ ht-degree: 100%
  </tbody> 
 </table>
 
-## 0.0.810 版 - 2019 年 3 月 6 日 {#topic-83bb7ddd68594177be9fd7826b650b80}
+## 0.0.810 版 — 2019 年 3 月 6 日 {#topic-83bb7ddd68594177be9fd7826b650b80}
 
 ## 新增功能 {#section-0a2f6fcb0045464fa11f0586c69f7ffd}
 
@@ -67,7 +67,7 @@ ht-degree: 100%
 * 更新了 Experience Cloud Debugger 页脚
 * 修复了对 Target 使用过时术语的问题
 
-## 0.0.809 版 - 2019 年 2 月 28 日 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
+## 0.0.809 版 — 2019 年 2 月 28 日 {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
 
 ## 新增功能 {#section-14036b9f2c0144fdac5e292ea42ce564}
 
@@ -98,7 +98,7 @@ ht-degree: 100%
 * 修复了动态插入 Launch 中继续显示错误 URL 的问题
 * 修复了在 Experience Cloud Debugger 窗口关闭后，Experience Cloud Debugger 仍继续替换嵌入代码的问题
 
-## 0.0.806 版 - 2018 年 9 月 10 日 {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
+## 0.0.806 版 — 2018 年 9 月 10 日 {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
 
 ## 新增功能 {#section-4eb2a6ed26a44abc96623384a7e94b0f}
 
@@ -141,11 +141,11 @@ ht-degree: 100%
 * 修复了“网络”选项卡的“解决方案”行中显示“Media Optimizer”，而非最新“Advertising Cloud”名称的问题
 * 修复了导致 Experience Cloud Debugger 在每个页面上注入 _satellite 的问题
 
-## 0.0.803 版 - 2018 年 8 月 10 日 {#topic-d2901fb70ce04a5586f6c7a994fce875}
+## 0.0.803 版 — 2018 年 8 月 10 日 {#topic-d2901fb70ce04a5586f6c7a994fce875}
 
 0.0.803 版不含任何面向客户的更改。
 
-## 0.0.802 版 - 2018 年 8 月 1 日 {#topic-b93cd396af5e49dc97cd86264871aeb4}
+## 0.0.802 版 — 2018 年 8 月 1 日 {#topic-b93cd396af5e49dc97cd86264871aeb4}
 
 ## 新增功能 {#section-e6699fb9c9b24035ace56d6a84c9d09b}
 
@@ -182,7 +182,7 @@ ht-degree: 100%
 * 修复了“单击单元格以查看”功能未更新的问题
 * 修复了 AAM 选项卡上未显示 AAM 点击量的问题
 
-## 0.0.798 版 - 2018 年 6 月 14 日 {#topic-3b2d44277f2f4c0295d82724c34bf467}
+## 0.0.798 版 — 2018 年 6 月 14 日 {#topic-3b2d44277f2f4c0295d82724c34bf467}
 
 ## 新增功能 {#section-0d73ae8b7ced417e9039f986fafaa102}
 
@@ -232,7 +232,7 @@ ht-degree: 100%
 * 修复了徽章编号未清除的问题
 * 修复了客户报告的空白摘要详细信息的问题
 
-## 0.0.797 版 - 2018 年 5 月 25 日 {#topic-51490f4f42aa40eb879663fad9d62916}
+## 0.0.797 版 — 2018 年 5 月 25 日 {#topic-51490f4f42aa40eb879663fad9d62916}
 
 ## 新增功能 {#section-bbf8ff7e000e4b5592d348e0870471f6}
 
@@ -262,4 +262,3 @@ ht-degree: 100%
   </tr> 
  </tbody> 
 </table>
-
