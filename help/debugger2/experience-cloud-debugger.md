@@ -1,18 +1,18 @@
 ---
 description: Experience Platform Debugger 会检查您的网页，并帮助您发现 Experience Cloud 解决方案的实施存在哪些问题
-keywords: debugger;experience Platform Debugger extension;chrome;extension
-seo-description: Adobe Experience Platform Debugger Chrome 和 Firefox 扩展技术文档 - 检查您的网页，并了解您的 Experience Cloud 解决方案实施中存在的问题
+keywords: debugger;experience Platform Debugger 扩展程序;chrome;扩展程序
+seo-description: Adobe Experience Platform Debugger Chrome 和 Firefox 扩展技术文档 — 检查您的网页，并了解您的 Experience Cloud 解决方案实施中存在的问题
 seo-title: Adobe Experience Platform Debugger Chrome 和 Firefox 扩展
 title: Adobe Experience Platform Debugger 扩展
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
-source-wordcount: '307'
+exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '314'
 ht-degree: 100%
 
 ---
-
 
 # (Beta) Adobe Experience Platform Debugger {#adobe-experience-platform-debugger}
 
@@ -26,7 +26,7 @@ Platform Debugger 可以与其他 Adobe 激活解决方案一起使用，完成�
 
 1. 使用 [Launch](https://docs.adobe.com/content/help/zh-Hans/launch/using/overview.translate.html) 或 [DTM](https://docs.adobe.com/content/help/zh-Hans/dtm/using/dtm-home.translate.html) 插入可在您的页面上激活 [Adobe Experience Cloud](https://docs.adobe.com/content/help/zh-Hans/core-services/interface/experience-cloud.html) 解决方案的代码。
 
-1. 使用 [Adobe Experience Platform Auditor](https://experiencecloud.adobe.com/resources/help/en_US/auditor/) 对您的实施进行测试。
+1. 使用 [Adobe Experience Platform Auditor](https://experiencecloud.adobe.com/resources/help/zh_CN/auditor/) 对您的实施进行测试。
 1. 使用 Adobe Experience Platform Debugger 来调试 Auditor 发现的问题，或检查有关您的实施的其他信息。
 
 不一定按照列出的顺序执行上述步骤，但这是一个常见的流程。
