@@ -1,16 +1,16 @@
 ---
 description: 关于 Adobe Experience Platform Auditor
-keywords: debugger;experience platform debugger extension;chrome;extension;auditor;dtm;target
+keywords: debugger;experience platform debugger 扩展程序;chrome;扩展程序;审计员;dtm;target
 seo-description: 关于 Adobe Experience Platform Auditor
 title: Auditor
-translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
-source-wordcount: '81'
+exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
-
 
 # Auditor {#auditor}
 
