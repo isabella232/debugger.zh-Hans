@@ -1,17 +1,17 @@
 ---
 description: 如何配置 Experience Platform Debugger
-keywords: debugger;experience platform debugger extension;chrome;extension;configure
+keywords: debugger;experience platform debugger 扩展程序;chrome;扩展程序;配置
 seo-description: 如何配置 Experience Platform Debugger
 seo-title: 配置 Experience Platform Debugger
 title: 配置 Experience Platform Debugger
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
-source-wordcount: '170'
+exl-id: ddc90b52-56d4-4efc-aad7-5a2c430e7dfe
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '178'
 ht-degree: 100%
 
 ---
-
 
 # 配置 Debugger
 
