@@ -1,18 +1,18 @@
 ---
 description: Experience Cloud Debugger 的“网络信息”屏幕
-keywords: debugger;experience cloud debugger extension;chrome;extension;network;information
+keywords: debugger;experience cloud debugger 扩展程序;chrome;扩展程序;网络;信息
 seo-description: Experience Cloud Debugger 的“网络信息”屏幕
 seo-title: 网络信息
 title: 网络信息
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
-source-wordcount: '217'
+exl-id: 9a758088-e87f-42a6-8410-24eb84d0d37a
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '226'
 ht-degree: 100%
 
 ---
-
 
 # 网络信息{#network-information}
 
@@ -34,11 +34,10 @@ ht-degree: 100%
 
 ![](assets/network.jpg)
 
-单击“网络”视图中的项目可将其放大。从展开的视图窗口中，可以将显示的信息复制到剪贴板。
+单击“网络”视图中的项目可将其放大。从展开的视图窗口中，可以将显示的信息复制到“剪贴板”。
 
 ![](assets/network-jsversion.jpg)
 
 可以使用每列顶部的图标将服务器调用 URL 复制到剪贴板，然后再粘贴到其他文档中以供参考或调试。
 
 ![](assets/copy.jpg)
-
