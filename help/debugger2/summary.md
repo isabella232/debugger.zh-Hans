@@ -1,18 +1,18 @@
 ---
 description: Experience Platform Debugger 的“摘要”屏幕
-keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
+keywords: debugger;experience Platform Debugger 扩展程序;chrome;扩展程序;摘要;调试;请求;摘要屏幕;解决方案;信息;analytics;target;dtm;audience manager;launch;id 服务
 seo-description: Experience Platform Debugger 的“摘要”屏幕
 seo-title: 摘要屏幕
 title: 摘要屏幕
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
-source-wordcount: '957'
+exl-id: 91234125-15c4-4111-9ee4-f3af093a3c4d
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '979'
 ht-degree: 100%
 
 ---
-
 
 # 摘要屏幕{#summary-screen}
 
@@ -67,15 +67,15 @@ Experience Platform Debugger 将显示每个解决方案的以下信息：
  <tbody> 
   <tr> 
    <td colname="col1"> <p>合作伙伴 </p> </td> 
-   <td colname="col2"> <p>DIL 实例的<a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/r_dil_get_partner.html" format="html" scope="external">合作伙伴名称</a> </p> </td> 
+   <td colname="col2"> <p>DIL 实例的<a href="https://experiencecloud.adobe.com/resources/help/zh_CN/aam/r_dil_get_partner.html" format="html" scope="external">合作伙伴名称</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>版本 </p> </td> 
-   <td colname="col2"> <p>DIL 实例的<a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/r_api_return_versions_dil.html" format="html" scope="external">版本号</a> </p> </td> 
+   <td colname="col2"> <p>DIL 实例的<a href="https://experiencecloud.adobe.com/resources/help/zh_CN/aam/r_api_return_versions_dil.html" format="html" scope="external">版本号</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>UUID </p> </td> 
-   <td colname="col2"> <p>与 DIL 实例关联的<a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/ids-in-aam.html" format="html" scope="external">唯一用户 ID</a> </p> </td> 
+   <td colname="col2"> <p>与 DIL 实例关联的<a href="https://experiencecloud.adobe.com/resources/help/zh_CN/aam/ids-in-aam.html" format="html" scope="external">唯一用户 ID</a> </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -203,4 +203,3 @@ Experience Platform Debugger 将显示每个解决方案的以下信息：
   </tr> 
  </tbody> 
 </table>
-
