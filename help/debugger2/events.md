@@ -1,17 +1,17 @@
 ---
 description: Experience Platform Debugger 的“事件”屏幕
-keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
+keywords: debugger;experience platform debugger 扩展程序;chrome;扩展程序;事件;dtm;target
 seo-description: Experience Platform Debugger 的“事件”屏幕
 seo-title: 事件
 title: 事件
-translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
-source-wordcount: '169'
+exl-id: 1f94ca36-d545-4e41-89a9-ed97c45991fb
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '179'
 ht-degree: 100%
 
 ---
-
 
 # 事件{#events}
 
