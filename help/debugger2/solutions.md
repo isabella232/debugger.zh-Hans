@@ -1,18 +1,18 @@
 ---
 description: 使用 Adobe Experience Platform Debugger 中的“解决方案”选项卡
-keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
+keywords: debugger;experience Platform Debugger 扩展程序;chrome;扩展程序;摘要;清除;请求;解决方案;解决方案;信息;analytics;target;audience manager;media optimizer;amo;id 服务
 seo-description: '使用 Adobe Experience Platform Debugger 中的“解决方案”选项卡 '
 seo-title: 'Adobe Experience Platform Debugger 中的“解决方案”选项卡 '
 title: “解决方案”选项卡
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
-source-wordcount: '280'
+exl-id: 2cb49f78-4a4b-4410-8a4b-6f9009c51d58
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '302'
 ht-degree: 100%
 
 ---
-
 
 # 解决方案{#solution-tabs}
 
