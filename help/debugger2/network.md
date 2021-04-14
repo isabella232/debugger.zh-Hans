@@ -1,18 +1,18 @@
 ---
 description: Experience Platform Debugger 的“网络”屏幕
-keywords: debugger;experience Platform Debugger extension;chrome;extension;network;information
+keywords: debugger;experience Platform Debugger 扩展程序;chrome;扩展程序;网络;信息
 seo-description: Experience Platform Debugger 的“网络”屏幕
 seo-title: 网络信息
 title: 网络信息
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
-source-wordcount: '227'
+exl-id: ed0579ef-ec26-43df-9453-a395c105038a
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '236'
 ht-degree: 100%
 
 ---
-
 
 # 网络{#network}
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
 要重新显示所有解决方案，请单击 **[!UICONTROL Network]**
 
-单击“网络”视图中的项目可将其放大。从展开的视图窗口中，可以将显示的信息复制到剪贴板。
+单击“网络”视图中的项目可将其放大。从展开的视图窗口中，可以将显示的信息复制到“剪贴板”。
 
 ![](assets/network-expand.jpg)
 
