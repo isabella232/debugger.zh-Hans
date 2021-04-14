@@ -1,18 +1,18 @@
 ---
 description: 运行 Experience Cloud Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
+keywords: debugger;experience cloud debugger 扩展程序;chrome;扩展程序;摘要;清除;请求;摘要屏幕;解决方案;信息;analytics;target;dtm;audience manager;launch;id 服务
 seo-description: 运行 Experience Cloud Debugger
 seo-title: 摘要屏幕
 title: 摘要屏幕
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
-source-wordcount: '1047'
+exl-id: 0ee0314b-1611-4581-ae54-2c784e0e56ff
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '1069'
 ht-degree: 100%
 
 ---
-
 
 # 摘要屏幕{#summary-screen}
 
@@ -220,4 +220,3 @@ Experience Cloud Debugger 将显示每个解决方案的以下信息：
   </tr> 
  </tbody> 
 </table>
-
