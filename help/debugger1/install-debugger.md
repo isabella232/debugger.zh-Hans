@@ -1,18 +1,18 @@
 ---
 description: Experience Cloud Debugger 安装说明
-keywords: debugger;experience cloud debugger extension;chrome;extension;install
+keywords: debugger;experience cloud debugger 扩展程序;chrome;扩展程序;安装
 seo-description: Experience Cloud Debugger 安装说明
 seo-title: 安装 Experience Cloud Debugger
 title: 安装 Experience Cloud Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
-source-wordcount: '61'
+exl-id: d1889803-f040-429e-9e0b-1a33afca721e
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '69'
 ht-degree: 100%
 
 ---
-
 
 # 安装 Adobe Experience Cloud Debugger{#install-experience-cloud-debugger}
 
