@@ -6,10 +6,9 @@ seo-title: 工具
 title: 工具
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
 exl-id: ad108515-030f-4790-a29c-70f82e58a55d
-translation-type: ht
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
-workflow-type: ht
-source-wordcount: '402'
+workflow-type: tm+mt
+source-wordcount: '405'
 ht-degree: 100%
 
 ---
@@ -20,7 +19,7 @@ ht-degree: 100%
 
 ![](assets/tools.jpg)
 
-您可以在任何页面上动态插入 Adobe Experience Platform Launch 或 DTM，以在未安装 Platform Launch 或 DTM 的页面上测试某些内容。单击 **[!UICONTROL Embed Code]** 图标，然后键入您的[嵌入代码](https://docs.adobe.com/content/help/zh-Hans/dtm/using/client-side/deployment.html)并单击 **[!UICONTROL Save]**。
+您可以在任何页面上动态插入 Adobe Experience Platform Launch 或 DTM，以在未安装 Platform Launch 或 DTM 的页面上测试某些内容。单击&#x200B;**[!UICONTROL 嵌入代码]**&#x200B;图标，然后键入您的[嵌入代码](https://docs.adobe.com/content/help/zh-Hans/dtm/using/client-side/deployment.html)，再单击&#x200B;**[!UICONTROL 保存]**。
 
 ![](assets/tools-embedcode.jpg)
 
