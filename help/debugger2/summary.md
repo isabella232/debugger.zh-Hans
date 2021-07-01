@@ -6,9 +6,8 @@ seo-title: 摘要屏幕
 title: 摘要屏幕
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 exl-id: 91234125-15c4-4111-9ee4-f3af093a3c4d
-translation-type: ht
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '979'
 ht-degree: 100%
 
@@ -148,7 +147,7 @@ Experience Platform Debugger 将显示每个解决方案的以下信息：
   </tr> 
   <tr> 
    <td colname="col1"> <p>版本 </p> </td> 
-   <td colname="col2"> <p><a href="https://experiencecloud.adobe.com/resources/help/zh_CN/sc/implement/visid_analytics.html" format="html" scope="external">访客 ID</a> 库的版本 </p> </td> 
+   <td colname="col2"> <p><a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external">访客 ID</a> 库的版本 </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -179,27 +178,27 @@ Experience Platform Debugger 将显示每个解决方案的以下信息：
   </tr> 
   <tr> 
    <td colname="col1"> <p>活动名称 </p> </td> 
-   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/zh-Hans/target/using/activities/activities.html" format="html" scope="external">营销活动或活动</a>的名称。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/zh-Hans/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
+   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/zh-Hans/target/using/activities/activities.html" format="html" scope="external">营销活动或活动</a>的名称。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>活动 ID </p> </td> 
-   <td colname="col2"> <p>Target 活动的 ID。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/zh-Hans/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
+   <td colname="col2"> <p>Target 活动的 ID。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>体验名称 </p> </td> 
-   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/zh-Hans/target/using/experiences/experiences.html" format="html" scope="external">体验</a>的名称。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/zh-Hans/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
+   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/zh-Hans/target/using/experiences/experiences.html" format="html" scope="external">体验</a>的名称。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>体验 ID </p> </td> 
-   <td colname="col2"> <p>Target 体验的 ID。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/zh-Hans/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
+   <td colname="col2"> <p>Target 体验的 ID。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>选件名称</p> </td> 
-   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/zh-Hans/target/using/experiences/offers/manage-content.html" format="html" scope="external">选件</a>的名称。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/zh-Hans/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
+   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/zh-Hans/target/using/experiences/offers/manage-content.html" format="html" scope="external">选件</a>的名称。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>选件 ID </p> </td> 
-   <td colname="col2"> <p>Target 选件的 ID。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/zh-Hans/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
+   <td colname="col2"> <p>Target 选件的 ID。仅当您在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的<a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">响应令牌</a>时，才能在无需进行身份验证的情况下可用。 </p> </td> 
   </tr> 
  </tbody> 
 </table>
