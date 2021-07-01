@@ -6,11 +6,10 @@ seo-title: Adobe Debugger 中的“解决方案”选项卡
 title: “解决方案”选项卡
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 exl-id: 1364e3df-4eba-4270-9b58-1bf397f29a60
-translation-type: ht
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
-workflow-type: ht
-source-wordcount: '1085'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '1102'
+ht-degree: 98%
 
 ---
 
@@ -44,7 +43,7 @@ ht-degree: 100%
 
 **关联帐户（旧版）**
 
-单击 **[!UICONTROL Link Account]**，然后输入请求将 Analytics 帐户关联到 Platform Debugger 的信息。
+单击&#x200B;**[!UICONTROL 关联帐户]**，然后输入请求将Analytics帐户关联到Platform Debugger的信息。
 
 >[!NOTE]
 >
@@ -64,13 +63,13 @@ ht-degree: 100%
 
 使用“Target”选项卡可查看 [Target](https://docs.adobe.com/content/help/zh-Hans/target/using/target-home.html) 请求或 [Mbox 追踪](https://docs.adobe.com/content/help/zh-Hans/target/using/activities/troubleshoot-activities/content-trouble.html)响应详细信息。
 
-单击 **[!UICONTROL Requests]**，然后展开环境可查看有关 Target 的信息。
+单击&#x200B;**[!UICONTROL 请求]**，然后展开环境以查看有关 Target 的信息。
 
 ![](assets/target-requests.jpg)
 
-单击 **[!UICONTROL Clear All Requests]** 可删除当前显示的请求。将在发出请求时显示更多请求。
+单击&#x200B;**[!UICONTROL 清除所有请求]**，以移除当前显示的请求。将在发出请求时显示更多请求。
 
-您还可以使用 Target 筛选器[为 Target 调试启用 MBox 追踪](https://docs.adobe.com/content/help/zh-Hans/target/using/activities/troubleshoot-activities/content-trouble.html)。
+您还可以使用 Target 筛选器[为 Target 调试启用 MBox 追踪](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html)。
 
 您必须有一个已通过 Experience Cloud 身份验证且已打开的 Chrome 选项卡，才能启用 Mbox 追踪。启用后，将显示您的 Adobe ID 用户名。展开您的用户名，以显示与您有权访问的 Experience Cloud 组织有关的 Target 客户端代码。单击要为其启用 Mbox 追踪的客户端代码，并确认出现绿色复选标记。现在将显示所有包含 Mbox 追踪信息的 Target 请求，并按客户端代码分组。要浏览 Mbox 追踪信息，请展开请求以查看相关选项卡：
 
@@ -78,7 +77,7 @@ ht-degree: 100%
 
 * 请求
 
-   [Mbox 追踪](https://docs.adobe.com/content/help/zh-Hans/target/using/activities/troubleshoot-activities/content-trouble.html)的“请求”选项卡类似于主要请求选项卡。除了请求标头外，您还可以查看 Target 请求传递的所有参数。
+   [Mbox 追踪](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html)的“请求”选项卡类似于主要请求选项卡。除了请求标头外，您还可以查看 Target 请求传递的所有参数。
 * 配置文件
 
    展开“配置文件快照”部分，查看您以访客身份存储在 Target 配置文件数据库中的[配置文件信息](https://docs.adobe.com/content/help/zh-Hans/target/using/audiences/visitor-profiles/variables-profiles-parameters-methods.html)。此处将显示所有 Mbox 内配置文件和脚本配置文件，以及一些系统配置文件。“状态”列显示在此请求范围内更改了哪些配置文件，以及这些配置文件在请求进入配置文件系统之前和之后的值。
@@ -100,7 +99,7 @@ ht-degree: 100%
 
 ![](assets/audience-manager.jpg)
 
-单击 **[!UICONTROL Clear All Events]** 可重置显示的信息。新事件将在发生时显示。
+单击&#x200B;**[!UICONTROL 清除所有事件]**&#x200B;可重置显示的信息。新事件将在发生时显示。
 
 **ID 同步**
 
@@ -114,14 +113,14 @@ ID 同步是入站异步数据传输过程中的第一步。在此步骤中，Au
 
 可以使用“Advertising Cloud”选项卡查看 Advertising Cloud 请求。
 
-单击 **[!UICONTROL Requests]**，然后展开环境可查看有关 Advertising Cloud 的信息。
+单击&#x200B;**[!UICONTROL 请求]**，然后展开环境以查看有关 Advertising Cloud 的信息。
 
-单击 **[!UICONTROL Clear All Requests]** 可删除当前显示的请求。将在发出请求时显示更多请求。
+单击&#x200B;**[!UICONTROL 清除所有请求]**，以移除当前显示的请求。将在发出请求时显示更多请求。
 
 ## Experience Cloud ID 服务 {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
 可以使用“Experience Cloud ID 服务”选项卡查看 [Experience Cloud ID 服务](https://docs.adobe.com/content/help/zh-Hans/id-service/using/home.html)请求。
 
-单击 **[!UICONTROL Requests]**，然后展开环境可查看有关 Experience Cloud ID 服务的信息。
+单击&#x200B;**[!UICONTROL 请求]**，然后展开环境以查看有关 Experience Cloud ID 服务的信息。
 
-单击 **[!UICONTROL Clear All Requests]** 可删除当前显示的请求。将在发出请求时显示更多请求。
+单击&#x200B;**[!UICONTROL 清除所有请求]**，以移除当前显示的请求。将在发出请求时显示更多请求。
