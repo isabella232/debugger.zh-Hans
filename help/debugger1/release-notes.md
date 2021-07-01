@@ -6,15 +6,14 @@ seo-title: 发行说明
 title: 发行说明
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 1c81a0f2-81ae-4f29-8c48-45e755cabb07
-translation-type: ht
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '732'
 ht-degree: 100%
 
 ---
 
-# 发行说明 {#release-notes}
+# 发行说明{#release-notes}
 
 ## 发行说明 {#topic-a92c3eb799b74e7fa404af8af5efb215}
 
