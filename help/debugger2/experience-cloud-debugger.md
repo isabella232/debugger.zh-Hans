@@ -23,7 +23,7 @@ ht-degree: 100%
 
 Platform Debugger 可以与其他 Adobe 激活解决方案一起使用，完成诸如以下工作流程：
 
-1. 使用 [Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=zh-Hans) 或 [DTM](https://docs.adobe.com/content/help/zh-Hans/dtm/using/dtm-home.translate.html) 插入可在您的页面上激活 [Adobe Experience Cloud](https://docs.adobe.com/content/help/zh-Hans/core-services/interface/experience-cloud.html) 解决方案的代码。
+1. 使用 [Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=zh-Hans) 或 [DTM](https://docs.adobe.com/content/help/zh-Hans/dtm/using/dtm-home.html) 插入可在您的页面上激活 [Adobe Experience Cloud](https://docs.adobe.com/content/help/zh-Hans/core-services/interface/experience-cloud.html) 解决方案的代码。
 
 1. 使用 [Adobe Experience Platform Auditor](https://experiencecloud.adobe.com/resources/help/zh_CN/auditor/) 对您的实施进行测试。
 1. 使用 Adobe Experience Platform Debugger 来调试 Auditor 发现的问题，或检查有关您的实施的其他信息。
