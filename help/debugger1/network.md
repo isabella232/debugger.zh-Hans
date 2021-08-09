@@ -8,14 +8,14 @@ uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 exl-id: 9a758088-e87f-42a6-8410-24eb84d0d37a
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '226'
 ht-degree: 100%
 
 ---
 
 # 网络信息{#network-information}
 
-要查看网络信息，请单击&#x200B;**[!UICONTROL 网络]**。
+要查看网络信息，请单击 **[!UICONTROL Network]**。
 
 “网络”屏幕汇总页面上发出的所有 Adobe Experience Cloud 解决方案调用，并按从左到右的顺序显示。标准参数会自动标示友好名称，并按照相同的角色对常用参数进行分组。
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 >
 >目前，并非所有在解决方案调用中传递的参数都在“网络”屏幕中可见，例如，Analytics 上下文变量、Target 自定义参数或 Experience Cloud ID 服务客户 ID。
 
-要查看所有信息，请选择&#x200B;**[!UICONTROL 全部]**。
+要查看所有信息，请选择 **[!UICONTROL All]**。
 
 您也可以按解决方案筛选信息。选择要查看的解决方案。您可以同时查看多个解决方案。选中的解决方案筛选器会突出显示。
 
