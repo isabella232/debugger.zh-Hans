@@ -8,8 +8,8 @@ uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 exl-id: ed0579ef-ec26-43df-9453-a395c105038a
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 91%
+source-wordcount: '236'
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 91%
 >
 >Adobe Experience Platform Debugger 目前为 Beta 版。文档和功能可能会发生变化。
 
-要查看网络信息，请单击&#x200B;**[!UICONTROL 网络]**。
+要查看网络信息，请单击 **[!UICONTROL Network]**。
 
 “网络”屏幕汇总页面上发出的所有 Adobe Experience Cloud 解决方案调用，并按从左到右的顺序显示。标准参数会自动标示友好名称，并按照相同的角色对常用参数进行分组。
 
@@ -35,7 +35,7 @@ ht-degree: 91%
 
 ![](assets/network-analytics.jpg)
 
-要重新显示所有解决方案，请单击 **[!UICONTROL 网络]**
+要重新显示所有解决方案，请单击 **[!UICONTROL Network]**
 
 单击“网络”视图中的项目可将其放大。从展开的视图窗口中，可以将显示的信息复制到“剪贴板”。
 
@@ -45,6 +45,6 @@ ht-degree: 91%
 
 ![](assets/copy.jpg)-->
 
-要清除列表，请单击&#x200B;**[!UICONTROL 删除事件]**。
+要清除列表，请单击 **[!UICONTROL Remove Events]**。
 
-要下载包含此屏幕上信息的Excel文件，请单击&#x200B;**[!UICONTROL 下载]**。
+要下载包含此屏幕上的信息的 Excel 文件，请单击 **[!UICONTROL Download]**。
