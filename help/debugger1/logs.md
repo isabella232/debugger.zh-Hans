@@ -8,7 +8,7 @@ uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
 exl-id: 6d015129-8ac3-411e-829c-8f58ec1fdde3
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '100'
 ht-degree: 100%
 
 ---
@@ -24,4 +24,4 @@ ht-degree: 100%
 
 ![](assets/logs.jpg)
 
-某些 DTM 日志项在其消息中包含“显示代码”选项。单击&#x200B;**[!UICONTROL 显示代码]**&#x200B;可查看条件代码，确定是否应触发某个规则。
+某些 DTM 日志项在其消息中包含“显示代码”选项。单击 **[!UICONTROL Show Code]** 可查看旨在确定是否应当触发某个规则的条件代码。
