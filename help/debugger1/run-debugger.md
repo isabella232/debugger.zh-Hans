@@ -8,8 +8,8 @@ uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 exl-id: 0ee0314b-1611-4581-ae54-2c784e0e56ff
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '1080'
-ht-degree: 97%
+source-wordcount: '1069'
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 97%
 
 此屏幕中显示该页面的缩略图，以及页面的 URL 和标题。还显示有关每个 Adobe Experience Cloud 解决方案的信息。所显示的信息因解决方案而异，但通常包括的信息有：解决方案库和版本（例如“AppMeasurement v2.9”），以及帐户标识符（例如 Analytics 报表包 ID、Target 客户端代码、Audience Manager 合作伙伴 ID 等）
 
-窗口顶部选项卡旁边的蓝色数字显示已发出的服务器调用数。您可以通过单击相应选项卡中的&#x200B;**[!UICONTROL 清除所有请求]**，将这些请求重置为零。
+窗口顶部选项卡旁边的蓝色数字显示已发出的服务器调用数。您可以通过单击相应选项卡中的 **[!UICONTROL Clear All Requests]**，将这些调用重置为零。
 
 例如，下图显示了有关 Adobe Target 的信息。请注意，要在不进行身份验证的情况下显示下图中的活动详细信息，您必须在代码或标签管理器中实施调试事件侦听器，并在 Target UI 中打开必要的[响应令牌](https://docs.adobe.com/content/help/zh-Hans/target/using/administer/response-tokens.html)。
 
@@ -33,7 +33,7 @@ ht-degree: 97%
 
 ## 在 Adobe Experience Platform Auditor 中运行审核 {#section-82bc57440406461ebf27a16855b71655}
 
-您可以使用 Plaform Auditor 在页面上运行一系列审核。要运行Platform Auditor，请单击顶部菜单中的&#x200B;**[!UICONTROL Auditor]**，然后单击&#x200B;**[!UICONTROL Audit Page Now]**。 要打开Platform Auditor，请单击&#x200B;**[!UICONTROL Run Multi-Page Audit Now]**。
+您可以使用 Plaform Auditor 在页面上运行一系列审核。要运行 Platform Auditor，请单击顶部菜单中的 **[!UICONTROL Auditor]**，然后单击 **[!UICONTROL Audit Page Now]**。要打开 Platform Auditor，请单击 **[!UICONTROL Run Multi-Page Audit Now]**。
 
 ## Experience Cloud Debugger 中显示的信息 {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
