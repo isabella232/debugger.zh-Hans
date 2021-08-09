@@ -8,8 +8,8 @@ uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 exl-id: 2cb49f78-4a4b-4410-8a4b-6f9009c51d58
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 91%
+source-wordcount: '302'
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 91%
 
 ## Adobe Experience Platform Web SDK {#aep}
 
-Adobe Experience Platform Web SDK 屏幕可显示有关 Adobe Experience Platform Web SDK 的信息。单击&#x200B;**[!UICONTROL 配置]**&#x200B;可打开或关闭控制台日志记录。
+Adobe Experience Platform Web SDK 屏幕可显示有关 Adobe Experience Platform Web SDK 的信息。单击 **[!UICONTROL Configure]** 可打开或关闭控制台日志记录。
 
 ## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
 
@@ -41,11 +41,11 @@ Analytics 屏幕可提供有关您的 [Analytics](https://docs.adobe.com/content
 
 ## Adobe Experience Platform Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-使用“Adobe Experience Platform Launch”部分查看 Platform Launch 请求。您还可以单击&#x200B;**[!UICONTROL 配置]**&#x200B;以配置[嵌入代码](https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/upgrade/link-dtm-embed-code.html)。 您可以在 Experience Platform Debugger 中编辑、替换或添加更多嵌入代码。如果您已登录，则可以使用下拉列表选择替代资产。
+使用“Adobe Experience Platform Launch”部分查看 Platform Launch 请求。另外，您还可以单击 **[!UICONTROL Configuration]** 来配置[嵌入代码](https://docs.adobe.com/content/help/zh-Hans/launch/using/reference/upgrade/link-dtm-embed-code.html)。您可以在 Experience Platform Debugger 中编辑、替换或添加更多嵌入代码。如果您已登录，则可以使用下拉列表选择替代资产。
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
-可以使用“Dynamic Tag Management”部分来查看 DTM 请求。您还可以单击&#x200B;**[!UICONTROL 配置]**&#x200B;以配置[嵌入代码](https://docs.adobe.com/content/help/zh-Hans/dtm/using/client-side/code.html)。
+可以使用“Dynamic Tag Management”部分来查看 DTM 请求。另外，您还可以单击 **[!UICONTROL Configuration]** 来配置[嵌入代码](https://docs.adobe.com/content/help/zh-Hans/dtm/using/client-side/code.html)。
 
 ## Experience Cloud ID 服务 {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
