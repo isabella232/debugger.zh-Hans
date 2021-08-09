@@ -8,8 +8,8 @@ uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 exl-id: 1364e3df-4eba-4270-9b58-1bf397f29a60
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '1102'
-ht-degree: 98%
+source-wordcount: '1085'
+ht-degree: 100%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 98%
 
 **关联帐户（旧版）**
 
-单击&#x200B;**[!UICONTROL 关联帐户]**，然后输入请求将Analytics帐户关联到Platform Debugger的信息。
+单击 **[!UICONTROL Link Account]**，然后输入请求将 Analytics 帐户关联到 Platform Debugger 的信息。
 
 >[!NOTE]
 >
@@ -63,11 +63,11 @@ ht-degree: 98%
 
 使用“Target”选项卡可查看 [Target](https://docs.adobe.com/content/help/zh-Hans/target/using/target-home.html) 请求或 [Mbox 追踪](https://docs.adobe.com/content/help/zh-Hans/target/using/activities/troubleshoot-activities/content-trouble.html)响应详细信息。
 
-单击&#x200B;**[!UICONTROL 请求]**，然后展开环境以查看有关 Target 的信息。
+单击 **[!UICONTROL Requests]**，然后展开环境可查看有关 Target 的信息。
 
 ![](assets/target-requests.jpg)
 
-单击&#x200B;**[!UICONTROL 清除所有请求]**，以移除当前显示的请求。将在发出请求时显示更多请求。
+单击 **[!UICONTROL Clear All Requests]** 可删除当前显示的请求。将在发出请求时显示更多请求。
 
 您还可以使用 Target 筛选器[为 Target 调试启用 MBox 追踪](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html)。
 
@@ -99,7 +99,7 @@ ht-degree: 98%
 
 ![](assets/audience-manager.jpg)
 
-单击&#x200B;**[!UICONTROL 清除所有事件]**&#x200B;可重置显示的信息。新事件将在发生时显示。
+单击 **[!UICONTROL Clear All Events]** 可重置显示的信息。新事件将在发生时显示。
 
 **ID 同步**
 
@@ -113,14 +113,14 @@ ID 同步是入站异步数据传输过程中的第一步。在此步骤中，Au
 
 可以使用“Advertising Cloud”选项卡查看 Advertising Cloud 请求。
 
-单击&#x200B;**[!UICONTROL 请求]**，然后展开环境以查看有关 Advertising Cloud 的信息。
+单击 **[!UICONTROL Requests]**，然后展开环境可查看有关 Advertising Cloud 的信息。
 
-单击&#x200B;**[!UICONTROL 清除所有请求]**，以移除当前显示的请求。将在发出请求时显示更多请求。
+单击 **[!UICONTROL Clear All Requests]** 可删除当前显示的请求。将在发出请求时显示更多请求。
 
 ## Experience Cloud ID 服务 {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
 可以使用“Experience Cloud ID 服务”选项卡查看 [Experience Cloud ID 服务](https://docs.adobe.com/content/help/zh-Hans/id-service/using/home.html)请求。
 
-单击&#x200B;**[!UICONTROL 请求]**，然后展开环境以查看有关 Experience Cloud ID 服务的信息。
+单击 **[!UICONTROL Requests]**，然后展开环境可查看有关 Experience Cloud ID 服务的信息。
 
-单击&#x200B;**[!UICONTROL 清除所有请求]**，以移除当前显示的请求。将在发出请求时显示更多请求。
+单击 **[!UICONTROL Clear All Requests]** 可删除当前显示的请求。将在发出请求时显示更多请求。
