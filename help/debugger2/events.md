@@ -7,8 +7,8 @@ title: 事件
 exl-id: 1f94ca36-d545-4e41-89a9-ed97c45991fb
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 92%
+source-wordcount: '179'
+ht-degree: 100%
 
 ---
 
@@ -39,10 +39,10 @@ ht-degree: 92%
 
    ![](assets/event-datalayer.jpg)
 
-1. 单击&#x200B;**[!UICONTROL 保存]**。
+1. 单击 **[!UICONTROL Save]**。
 
 数据层变更详情将显示所有删除或添加的内容。您可以单击 **{}**，以便更加深入地了解数据层。
 
 ## 下载事件信息
 
-单击&#x200B;**[!UICONTROL 下载]**&#x200B;可下载一个显示页面调用信息的Excel文件。
+单击 **[!UICONTROL Download]**，可下载一个反映了页面调用信息的 Excel 文件。
