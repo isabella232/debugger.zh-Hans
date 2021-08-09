@@ -6,8 +6,8 @@ title: Auditor
 exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 89%
+source-wordcount: '91'
+ht-degree: 100%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 89%
 
 您可以运用 Adobe Experience Platform [Auditor](https://docs.adobe.com/content/help/zh-Hans/auditor/using/overview.html)，在 Auditor 屏幕上对您的页面运行一系列审核。
 
-1. 单击左侧导航栏中的&#x200B;**[!UICONTROL Auditor]** 。
-1. 单击&#x200B;**[!UICONTROL 运行Auditor测试]**。
+1. 单击左侧导航栏中的 **[!UICONTROL Auditor]**。
+1. 单击 **[!UICONTROL Run Auditor Tests]**。
 
 将会显示测试结果。
 
