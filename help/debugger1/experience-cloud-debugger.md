@@ -1,25 +1,29 @@
 ---
 description: Debugger 会检查您的网页，并帮助您发现 Experience Cloud 解决方案的实施存在哪些问题
 keywords: 调试器;experience cloud 调试器扩展;chrome;扩展
-seo-description: Adobe Experience Cloud 调试器 Chrome 扩展技术文档 — 检查您的网页，并了解您的 Experience Cloud 解决方案实施中存在的问题
-seo-title: Adobe Experience Cloud 调试器 Chrome 扩展
+seo-description: Technical documentation for the Adobe Experience Cloud Debugger Chrome Extension - examine your web pages and understand problems with your Experience Cloud solution mplementations
+seo-title: Adobe Experience Cloud Debugger Chrome Extension
 title: Adobe Experience Cloud 调试器扩展
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: 02d88172-3fb1-4111-a80d-e9d46df9ea1e
-source-git-commit: e3f0fa30fa5caeccc9a01b5d1949722836645da9
+source-git-commit: bb3891dabd8721fe9e81bffac8e97fd2866b676b
 workflow-type: tm+mt
-source-wordcount: '274'
-ht-degree: 92%
+source-wordcount: '270'
+ht-degree: 85%
 
 ---
 
 # Adobe Experience Cloud 调试器扩展{#adobe-experience-cloud-debugger-extension}
 
+>[!IMPORTANT]
+>
+>当前提供了新版本的Debugger。 可以找到新的Adobe Experience Platform Debugger [此处](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob).
+
 [适用于 Chrome 的 Adobe Experience Cloud 调试器扩展](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)可检查您的网页，并帮助您发现 Experience Cloud 解决方案的实施存在哪些问题。
 
 Adobe Experience Cloud 调试程序扩展可以与其他 Adobe 激活解决方案一起使用，完成诸如以下工作流程：
 
-1. 使用[Adobe Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=zh-Hans)插入可在您的页面上激活[Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html)解决方案的代码。
+1. 使用 [Adobe Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=zh-Hans) 插入可激活的代码 [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html) 解决方案。
 
 1. 使用 [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/zh-Hans/auditor/using/overview.html) 对您的实施进行测试。
 1. 使用 Adobe Experience Cloud Debugger 扩展来调试 Auditor 发现的问题或检查有关您实施的其他信息。
