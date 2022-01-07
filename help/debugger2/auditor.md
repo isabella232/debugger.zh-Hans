@@ -1,29 +1,28 @@
 ---
-description: 关于 Adobe Experience Platform Auditor
-keywords: debugger;experience platform debugger 扩展程序;chrome;扩展程序;审计员;dtm;target
-seo-description: 关于 Adobe Experience Platform Auditor
 title: Auditor
+description: 了解如何使用Adobe Experience Platform Debugger中的Auditor选项卡来测试Adobe Experience Cloud实施。
+keywords: debugger;experience platform debugger 扩展程序;chrome;扩展程序;审计员;dtm;target
 exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 38aa891a1de63ad395f12726597bd8bba82189e6
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 100%
+source-wordcount: '111'
+ht-degree: 41%
 
 ---
 
-# Auditor {#auditor}
+# Auditor
 
 >[!IMPORTANT]
 >
 >Adobe Experience Platform Debugger 目前为 Beta 版。文档和功能可能会发生变化。
 
-您可以运用 Adobe Experience Platform [Auditor](https://docs.adobe.com/content/help/zh-Hans/auditor/using/overview.html)，在 Auditor 屏幕上对您的页面运行一系列审核。
+在Adobe Experience Platform Debugger中，您可以使用 **[!UICONTROL Auditor]** 选项卡，在您的页面上运行一系列审核测试。
 
-1. 单击左侧导航栏中的 **[!UICONTROL Auditor]**。
-1. 单击 **[!UICONTROL Run Auditor Tests]**。
+要使用此功能，请执行以下操作：
 
-将会显示测试结果。
+1. 选择 **[!UICONTROL Auditor]** 中。
+1. 选择 **[!UICONTROL Run Auditor Tests]**。测试完成后，其结果将显示在下面。
 
-![](assets/auditor-results.jpg)
+![Auditor选项卡上测试结果的屏幕截图](./assets/auditor-results.png)
 
 在结果列表上，显示了相应的测试及其结果，并提供了用来解决任意问题的建议。

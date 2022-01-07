@@ -1,15 +1,15 @@
 ---
-description: Debugger 会检查您的网页，并帮助您发现 Experience Cloud 解决方案的实施存在哪些问题
+description: 调试器会检查您的网页，并帮助您发现 Experience Cloud 解决方案的实施存在哪些问题
 keywords: 调试器;experience cloud 调试器扩展;chrome;扩展
 seo-description: Technical documentation for the Adobe Experience Cloud Debugger Chrome Extension - examine your web pages and understand problems with your Experience Cloud solution mplementations
 seo-title: Adobe Experience Cloud Debugger Chrome Extension
 title: Adobe Experience Cloud 调试器扩展
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: 02d88172-3fb1-4111-a80d-e9d46df9ea1e
-source-git-commit: bb3891dabd8721fe9e81bffac8e97fd2866b676b
+source-git-commit: 38aa891a1de63ad395f12726597bd8bba82189e6
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 85%
+source-wordcount: '262'
+ht-degree: 84%
 
 ---
 
@@ -24,8 +24,7 @@ ht-degree: 85%
 Adobe Experience Cloud 调试程序扩展可以与其他 Adobe 激活解决方案一起使用，完成诸如以下工作流程：
 
 1. 使用 [Adobe Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=zh-Hans) 插入可激活的代码 [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html) 解决方案。
-
-1. 使用 [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/zh-Hans/auditor/using/overview.html) 对您的实施进行测试。
+1. 使用 Adobe Experience Platform Auditor 对您的实施进行测试。
 1. 使用 Adobe Experience Cloud Debugger 扩展来调试 Auditor 发现的问题或检查有关您实施的其他信息。
 
 不一定按照列出的顺序执行上述步骤，但这是一个常见的流程。
