@@ -6,10 +6,10 @@ seo-title: Adobe Experience Cloud Debugger Chrome Extension
 title: Adobe Experience Cloud 调试器扩展
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: 02d88172-3fb1-4111-a80d-e9d46df9ea1e
-source-git-commit: 38aa891a1de63ad395f12726597bd8bba82189e6
+source-git-commit: 3b07bfe5764b46a2510b577df8978a35a753ab7b
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 84%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 84%
 
 >[!IMPORTANT]
 >
->当前提供了新版本的Debugger。 可以找到新的Adobe Experience Platform Debugger [此处](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob).
+>当前提供了新版本的Debugger。 有关最新功能的信息，请参阅 [Adobe Experience Platform Debugger文档](../debugger2/experience-cloud-debugger.md).
 
-[适用于 Chrome 的 Adobe Experience Cloud 调试器扩展](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)可检查您的网页，并帮助您发现 Experience Cloud 解决方案的实施存在哪些问题。
+[适用于 Chrome 的 Adobe Experience Cloud 调试器扩展](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob)可检查您的网页，并帮助您发现 Experience Cloud 解决方案的实施存在哪些问题。
 
 Adobe Experience Cloud 调试程序扩展可以与其他 Adobe 激活解决方案一起使用，完成诸如以下工作流程：
 
-1. 使用 [Adobe Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=zh-Hans) 插入可激活的代码 [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html) 解决方案。
+1. 使用 [标记](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=zh-Hans) 插入可激活的代码 [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html) 解决方案。
 1. 使用 Adobe Experience Platform Auditor 对您的实施进行测试。
 1. 使用 Adobe Experience Cloud Debugger 扩展来调试 Auditor 发现的问题或检查有关您实施的其他信息。
 
