@@ -6,10 +6,10 @@ seo-title: Release Notes
 title: 发行说明
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 3eed44da-5f85-413e-a783-3a0df03a2baf
-source-git-commit: 026ce852ded530e89f36bb01274d7481e07731c0
+source-git-commit: 3cff0a4199d58fa18b89af42d77813f38f30b512
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 14%
+source-wordcount: '287'
+ht-degree: 6%
 
 ---
 
@@ -17,71 +17,31 @@ ht-degree: 14%
 
 ## 发行说明 {#topic-a92c3eb799b74e7fa404af8af5efb215}
 
+## 1.3.0版 — 2022年1月28日
+
+* 添加了关于链接以显示当前发行版本和说明。
+* 添加了用于查看Analytics请求的处理后点击的切换开关。 切换在Analytics部分中可用。
+* 修复了在调试器外部关闭会话时的远程调试会话问题。
+* 修复了在Web SDK边缘事务选项卡中显示的错误通知。
+* 修复了当调试器访问_satellite对象时，页面上的Adobe标记弃用警告。
+* 修复了在页面上未找到AppMeasurement实例的某些情况。
+* 修复了首次打开调试器窗口时发生的页面连接问题。
+
 ## 1.2.0版 — 2021年10月26日
 
-## 新增功能
-
-<table id="table">
- <thead>
-  <tr>
-   <th colname="col1" class="entry"> 功能 </th>
-   <th colname="col2" class="entry"> 描述 </th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td colname="col1"> <p> 在“网络”视图中，所有浏览器选项卡中的事件都可见 </p> </td>
-   <td colname="col2"> <p> 在“网络”视图中显示所有浏览器选项卡中的事件。 要仅查看当前选项卡中的事件，请单击Debugger右下角的锁图标。</p> </td>
-  </tr>
-  <tr>
-   <td colname="col1"> <p> 品牌变更 </p> </td>
-   <td colname="col2"> <p> AEP Web SDK将变为Adobe Experience Platform Web SDK，而Launch将变为Adobe Experience Platform标记。</p> </td>
-  </tr>
- </tbody>
-</table>
+* 在“网络”视图中显示所有浏览器选项卡中的事件。 要仅从当前选项卡中查看事件，请单击Debugger右下角的锁定图标。
+* 更新了品牌策略。
 
 ## 1.1.0版 — 2021年10月5日
 
-## 新增功能
+* 远程调试可视化 — 在Adobe Experience Platform Web SDK >边缘事务部分中，将远程调试事件组织到可视化流程图中。
+* 启动新的远程调试会话时，需要页面上使用的Adobe Experience Platform Web SDK IMS组织与登录组织相匹配。
+* 仅显示连接选项卡的边缘事务。
 
-<table id="table">
- <thead>
-  <tr>
-   <th colname="col1" class="entry"> 功能 </th>
-   <th colname="col2" class="entry"> 描述 </th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td colname="col1"> <p> 远程调试可视化 </p> </td>
-   <td colname="col2"> <p> 在Adobe Experience Platform Web SDK &gt;边缘事务部分中，将远程调试事件组织到可视流程图中。 此外，在启动新的远程调试会话时，还需要在页面上使用Adobe Experience Platform Web SDK IMS组织来匹配已登录的组织。 通过连接的选项卡过滤边缘事务。</p> <p> <b>注意：</b> Target跟踪日志仍在“日志”&gt;“Edge”部分中可用。</p> </td>
-  </tr>
-  <tr>
-   <td colname="col1"> <p> Adobe Experience Platform Web SDK配置部分改进 </p> </td>
-   <td colname="col2"> <p> 允许为页面上的每个实例分别进行单独的数据流ID配置覆盖。 添加已启用调试的切换开关。</p> </td>
-  </tr>
- </tbody>
-</table>
-
-## 错误修复
-
+> **注意：** Target跟踪日志仍在“日志”>“Edge”部分中可用。
+* 允许为页面上Adobe Experience Platform Web SDK的每个实例单独覆盖数据流ID配置。 添加已启用调试的切换开关。
 * 修复了Adobe Target跟踪令牌并非总是随Adobe Experience Platform Web SDK的远程调试会话一起发送的问题。
 
 ## 1.0.0版 — 2021年5月5日
 
-## 新增功能
-
-<table id="table_7EFCAF456B14404FAF3715FC56519AAF">
- <thead>
-  <tr>
-   <th colname="col1" class="entry"> 功能 </th>
-   <th colname="col2" class="entry"> 描述 </th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td colname="col1"> <p> 初始版本 </p> </td>
-   <td colname="col2"> <p> Debugger的第一个主要版本。 用于替换Experience Cloud Debugger。 </p> </td>
-  </tr>
- </tbody>
-</table>
+* Debugger的第一个主要版本。 用于替换Experience Cloud Debugger。
