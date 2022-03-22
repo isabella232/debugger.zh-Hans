@@ -1,15 +1,15 @@
 ---
 description: 运行 Experience Cloud Debugger
 keywords: debugger;experience cloud debugger 扩展程序;chrome;扩展程序;摘要;清除;请求;摘要屏幕;解决方案;信息;analytics;target;dtm;audience manager;launch;id 服务
-seo-description: 运行 Experience Cloud Debugger
-seo-title: 摘要屏幕
-title: 摘要屏幕
+seo-description: Running Experience Cloud Debugger
+seo-title: Summary Screen
+title: 摘要屏幕Experience Cloud Debugger
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 exl-id: 0ee0314b-1611-4581-ae54-2c784e0e56ff
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
 workflow-type: tm+mt
-source-wordcount: '1069'
-ht-degree: 100%
+source-wordcount: '1066'
+ht-degree: 99%
 
 ---
 

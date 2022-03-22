@@ -4,8 +4,8 @@ description: 了解auditor如何在Adobe Experience Platform Debugger中测试�
 exl-id: 8f01f89e-2a3b-41bc-b971-f3c60d0ae3fa
 source-git-commit: f18828bcaa0d244bd5b117fd8bf1c1cdba4d4b52
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '605'
+ht-degree: 32%
 
 ---
 

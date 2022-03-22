@@ -1,15 +1,15 @@
 ---
 description: 使用 Adobe 调试器中的“解决方案”选项卡
 keywords: 调试器;experience cloud 调试器扩展;chrome;扩展;摘要;清除;请求;多个解决方案;解决方案;信息;analytics;target;audience manager;media optimizer;amo;id 服务
-seo-description: 使用 Adobe 调试器中的“解决方案”选项卡
-seo-title: Adobe Debugger 中的“解决方案”选项卡
-title: “解决方案”选项卡
+seo-description: Using the Solution tabs in Adobe Debugger
+seo-title: Solution Tabs in Adobe Debugger
+title: “解决方案”选项卡Experience Cloud Debugger
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 exl-id: 1364e3df-4eba-4270-9b58-1bf397f29a60
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
 workflow-type: tm+mt
-source-wordcount: '1085'
-ht-degree: 100%
+source-wordcount: '1077'
+ht-degree: 99%
 
 ---
 

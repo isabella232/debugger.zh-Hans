@@ -8,8 +8,8 @@ uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
 source-git-commit: af031b800b991e0e906e9abda88992f093c58fbc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '289'
+ht-degree: 29%
 
 ---
 
