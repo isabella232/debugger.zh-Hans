@@ -1,27 +1,21 @@
 ---
-description: Experience Platform Debugger 的“网络”屏幕
+title: “网络”选项卡
+description: 了解如何使用Adobe Experience Platform Debugger中的“网络”选项卡。
 keywords: debugger;experience Platform Debugger 扩展程序;chrome;扩展程序;网络;信息
-seo-description: Experience Platform Debugger 的“网络”屏幕
-seo-title: 网络信息
-title: 网络信息
+seo-description: Experience Platform Debugger Network screen
+seo-title: Network Tab
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 exl-id: ed0579ef-ec26-43df-9453-a395c105038a
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 100%
+source-wordcount: '215'
+ht-degree: 63%
 
 ---
 
-# 网络{#network}
+# “网络”选项卡
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger 目前为 Beta 版。文档和功能可能会发生变化。
-
-要查看网络信息，请单击 **[!UICONTROL Network]**。
-
-“网络”屏幕汇总页面上发出的所有 Adobe Experience Cloud 解决方案调用，并按从左到右的顺序显示。标准参数会自动标示友好名称，并按照相同的角色对常用参数进行分组。
+的 **网络** 选项卡汇总页面上发出的所有Adobe Experience Cloud解决方案调用，并按从左到右的顺序显示它们。 标准参数会自动标示友好名称，并按照相同的角色对常用参数进行分组。
 
 ![](assets/network.jpg)
 
@@ -35,9 +29,9 @@ ht-degree: 100%
 
 ![](assets/network-analytics.jpg)
 
-要重新显示所有解决方案，请单击 **[!UICONTROL Network]**
+要恢复显示所有解决方案，请选择 **[!UICONTROL Network]**
 
-单击“网络”视图中的项目可将其放大。从展开的视图窗口中，可以将显示的信息复制到“剪贴板”。
+在“网络”视图的项目上选择以查看展开的视图。 从展开的视图窗口中，可以将显示的信息复制到“剪贴板”。
 
 ![](assets/network-expand.jpg)
 
@@ -45,6 +39,6 @@ ht-degree: 100%
 
 ![](assets/copy.jpg)-->
 
-要清除列表，请单击 **[!UICONTROL Remove Events]**。
+要清除列表，请选择 **[!UICONTROL Remove Events]**.
 
-要下载包含此屏幕上的信息的 Excel 文件，请单击 **[!UICONTROL Download]**。
+要下载包含此屏幕上信息的Excel文件，请选择 **[!UICONTROL Download]**.

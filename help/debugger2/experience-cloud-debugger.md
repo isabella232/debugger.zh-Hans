@@ -1,29 +1,25 @@
 ---
-description: Experience Platform Debugger 会检查您的网页，并帮助您发现 Experience Cloud 解决方案的实施存在哪些问题
+description: Experience Platform Debugger 会检查您的网页，并帮助您发现 Experience Cloud 解决方案的实施存在哪些问题.
 keywords: debugger;experience Platform Debugger 扩展程序;chrome;扩展程序
 seo-description: Technical documentation for the Adobe Experience Platform Debugger Chrome and Firefox Extension - examine your web pages and understand problems with your Experience Cloud solution mplementations
 seo-title: Adobe Experience Platform Debugger Chrome and Firefox Extension
 title: Adobe Experience Platform Debugger 扩展
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
-source-git-commit: af031b800b991e0e906e9abda88992f093c58fbc
+source-git-commit: 5e6481c6f4b0ffe64440b1c550511fbf155a19b4
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 29%
+source-wordcount: '270'
+ht-degree: 22%
 
 ---
 
-# (Beta) Adobe Experience Platform Debugger {#adobe-experience-platform-debugger}
-
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger 目前为 Beta 版。文档和功能可能会发生变化。
+# Adobe Experience Platform Debugger概述
 
 适用于的Adobe Experience Platform Debugger扩展 [铬黄](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) 和 [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/adobe-experience-platform-dbg/) 检查您的网页，并帮助您发现Adobe Experience Cloud解决方案的实施存在哪些问题。
 
 您可以将Platform Debugger与其他Adobe激活解决方案结合使用，以执行以下操作：
 
-1. 使用 [标记](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=zh-Hans) 在数据收集UI中插入可激活的代码 [Adobe Experience Cloud](https://docs.adobe.com/content/help/zh-Hans/core-services/interface/experience-cloud.html) 产品。
+1. 使用 [标记](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=zh-Hans) 在数据收集UI中插入可激活的代码 [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html) 产品。
 1. 使用 [**[!UICONTROL Auditor]**选项卡](./auditor/overview.md) 中，用于测试您的实施。
 1. 使用Platform Debugger中基于事件且特定于解决方案的工具来调试Auditor发现的问题或检查有关您的实施的其他信息。
 

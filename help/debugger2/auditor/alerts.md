@@ -2,7 +2,7 @@
 title: 警报测试参考
 description: 了解auditor如何在Adobe Experience Platform Debugger中测试警报。
 exl-id: ac6f8675-6c34-48b4-b5dd-48e92af217fd
-source-git-commit: f18828bcaa0d244bd5b117fd8bf1c1cdba4d4b52
+source-git-commit: 2223e29de6876639c5dbffda4954e114dcd32521
 workflow-type: tm+mt
 source-wordcount: '697'
 ht-degree: 31%

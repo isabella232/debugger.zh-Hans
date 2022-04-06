@@ -1,24 +1,20 @@
 ---
 description: 如何配置 Experience Platform Debugger
 keywords: debugger;experience platform debugger 扩展程序;chrome;扩展程序;配置
-seo-description: 如何配置 Experience Platform Debugger
-seo-title: 配置 Experience Platform Debugger
+seo-description: How to configure Experience Platform Debugger
+seo-title: Configure Experience Platform Debugger
 title: 配置 Experience Platform Debugger
 exl-id: ddc90b52-56d4-4efc-aad7-5a2c430e7dfe
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 100%
+source-wordcount: '153'
+ht-degree: 67%
 
 ---
 
-# 配置 Debugger
+# 配置Platform Debugger
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger 目前为 Beta 版。文档和功能可能会发生变化。
-
-您可以在外观和工作方式上，对 Experience Platform Debugger 进行某些方面的配置。
+您可以在外观和工作方式上，对Adobe Experience Platform Debugger进行某些方面的配置。
 
 ![](assets/settings.jpg)
 
@@ -28,11 +24,11 @@ ht-degree: 100%
 
 ## 重置
 
-单击 **[!UICONTROL Reset all Data and Settings]** 可返回到清除所有数据并恢复默认设置的状态。
+选择 **[!UICONTROL Reset all Data and Settings]** 以清除所有数据并返回默认设置。
 
 ## 将 Experience Platform Debugger 锁定在某个页面上
 
-当您在网站上变更页面时，Experience Platform Debugger 窗口会随之更新，以显示相应页面的信息。在屏幕底部，将显示您所连接的页面的名称。若要将 Platform Debugger 锁定在某个页面上，请单击 Experience Platform Debugger 窗口右下角的 **[!UICONTROL Lock]**。
+当您在网站上变更页面时，Experience Platform Debugger 窗口会随之更新，以显示相应页面的信息。在屏幕底部，将显示您所连接的页面的名称。要将Experience Platform调试器锁定在某个页面上，请选择 **[!UICONTROL Lock]** Debugger窗口的右下角。
 
 ![](assets/lock.jpg)
 

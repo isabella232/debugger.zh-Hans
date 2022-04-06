@@ -1,20 +1,16 @@
 ---
-title: Auditor
+title: “Auditor”选项卡
 description: 了解如何使用Adobe Experience Platform Debugger中的Auditor选项卡来测试Adobe Experience Cloud实施。
 keywords: debugger;experience platform debugger 扩展程序;chrome;扩展程序;审计员;dtm;target
 exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
-source-git-commit: 84aa9d71d3f3bc84a9bcbf18a9978428964f1f74
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '373'
-ht-degree: 38%
+source-wordcount: '358'
+ht-degree: 35%
 
 ---
 
-# Auditor
-
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger 目前为 Beta 版。文档和功能可能会发生变化。
+# “Auditor”选项卡
 
 在Adobe Experience Platform Debugger中，您可以使用 **[!UICONTROL Auditor]** 选项卡，在您的页面上运行一系列审核测试。
 
