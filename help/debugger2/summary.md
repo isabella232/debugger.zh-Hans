@@ -9,13 +9,13 @@ exl-id: 91234125-15c4-4111-9ee4-f3af093a3c4d
 source-git-commit: 220746028a55f613ae45f31cb74d5da3e187f374
 workflow-type: tm+mt
 source-wordcount: '916'
-ht-degree: 75%
+ht-degree: 76%
 
 ---
 
 # “摘要”选项卡
 
-要运行Adobe Experience Platform Debugger，请在浏览器中打开要检查的页面，然后选择图标(![](assets/start-icon.jpg))。 扩展将在 **概要** 选项卡。
+要运行Adobe Experience Platform Debugger，请在浏览器中打开要检查的页面，然后选择图标(![](assets/start-icon.jpg))。 扩展将在 **摘要** 选项卡。
 
 ![](assets/summary.jpg)
 
@@ -85,11 +85,11 @@ Experience Platform Debugger 将显示每个解决方案的以下信息：
   </tr> 
   <tr> 
    <td colname="col1"> <p>内部版本发布日期 </p> </td> 
-   <td colname="col2"> <p>标记 <a href="https://experienceleague.adobe.com/docs/experience-platform/tags/publish/libraries.html" format="https" scope="external"> 库</a> 构建日期 </p> </td> 
+   <td colname="col2"> <p>标记 <a href="https://experienceleague.adobe.com/docs/experience-platform/tags/publish/libraries.html" format="https" scope="external"> 库</a> 生成日期 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>环境 </p> </td> 
-   <td colname="col2"> <p>的 <a href="https://experienceleague.adobe.com/docs/experience-platform/tags/publish/environments/environments.html" format="https" scope="external"> 环境</a> 由标记库使用 </p> </td> 
+   <td colname="col2"> <p>此 <a href="https://experienceleague.adobe.com/docs/experience-platform/tags/publish/environments/environments.html" format="https" scope="external"> 环境</a> 由标记库使用 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>扩展 </p> </td> 
@@ -139,7 +139,7 @@ Experience Platform Debugger 将显示每个解决方案的以下信息：
   </tr> 
   <tr> 
    <td colname="col1"> <p>版本 </p> </td> 
-   <td colname="col2"> <p><a href="https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/visid_analytics.html" format="html" scope="external">访客 ID</a> 库的版本 </p> </td> 
+   <td colname="col2"> <p><a href="https://experiencecloud.adobe.com/resources/help/zh_CN/sc/implement/visid_analytics.html" format="html" scope="external">访客 ID</a> 库的版本 </p> </td> 
   </tr> 
  </tbody> 
 </table>

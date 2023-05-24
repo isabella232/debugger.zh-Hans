@@ -10,8 +10,8 @@ breadcrumb-title: Platform Debugger 指南
 index: true
 source-git-commit: b4f705ad457ff5841f1610a01e2e8e40cd54f894
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '55'
+ht-degree: 81%
 
 ---
 
@@ -26,10 +26,10 @@ ht-degree: 0%
 * [解决方案](solutions.md)
 * [日志](logs.md)
 * [网络](network.md)
-* [活动](events.md)
+* [事件](events.md)
 * Auditor {#auditor}
    * [概述](./auditor/overview.md)
    * [标记一致性测试](./auditor/tag-consistency.md)
-   * [标记存在测试](./auditor/tag-presence.md)
+   * [标记存在性测试](./auditor/tag-presence.md)
    * [配置测试](./auditor/configuration.md)
    * [警报测试](./auditor/alerts.md)

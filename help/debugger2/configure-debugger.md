@@ -12,7 +12,7 @@ ht-degree: 67%
 
 ---
 
-# 配置Platform Debugger
+# 配置Platform Bugger
 
 您可以在外观和工作方式上，对Adobe Experience Platform Debugger进行某些方面的配置。
 
@@ -24,11 +24,11 @@ ht-degree: 67%
 
 ## 重置
 
-选择 **[!UICONTROL Reset all Data and Settings]** 以清除所有数据并返回默认设置。
+选择 **[!UICONTROL Reset all Data and Settings]** 以清除所有数据并返回到默认设置。
 
 ## 将 Experience Platform Debugger 锁定在某个页面上
 
-当您在网站上变更页面时，Experience Platform Debugger 窗口会随之更新，以显示相应页面的信息。在屏幕底部，将显示您所连接的页面的名称。要将Experience Platform调试器锁定在某个页面上，请选择 **[!UICONTROL Lock]** Debugger窗口的右下角。
+当您在网站上变更页面时，Experience Platform Debugger 窗口会随之更新，以显示相应页面的信息。在屏幕底部，将显示您所连接的页面的名称。若要将Experience PlatformDebugger锁定在某个页面上，请选择 **[!UICONTROL Lock]** Platform Debugger窗口右下角的。
 
 ![](assets/lock.jpg)
 

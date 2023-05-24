@@ -15,7 +15,7 @@ ht-degree: 63%
 
 # “网络”选项卡
 
-的 **网络** 选项卡汇总页面上发出的所有Adobe Experience Cloud解决方案调用，并按从左到右的顺序显示它们。 标准参数会自动标示友好名称，并按照相同的角色对常用参数进行分组。
+此 **网络** 选项卡汇总页面上发出的所有Adobe Experience Cloud解决方案调用，并按从左到右的顺序显示它们。 标准参数会自动标示友好名称，并按照相同的角色对常用参数进行分组。
 
 ![](assets/network.jpg)
 
@@ -29,9 +29,9 @@ ht-degree: 63%
 
 ![](assets/network-analytics.jpg)
 
-要恢复显示所有解决方案，请选择 **[!UICONTROL Network]**
+要重新显示所有解决方案，请选择 **[!UICONTROL Network]**
 
-在“网络”视图的项目上选择以查看展开的视图。 从展开的视图窗口中，可以将显示的信息复制到“剪贴板”。
+在“网络”视图中选择项目以查看展开视图。 从展开的视图窗口中，可以将显示的信息复制到“剪贴板”。
 
 ![](assets/network-expand.jpg)
 
@@ -41,4 +41,4 @@ ht-degree: 63%
 
 要清除列表，请选择 **[!UICONTROL Remove Events]**.
 
-要下载包含此屏幕上信息的Excel文件，请选择 **[!UICONTROL Download]**.
+要下载包含此屏幕上的信息的Excel文件，请选择 **[!UICONTROL Download]**.

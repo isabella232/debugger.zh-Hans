@@ -1,14 +1,14 @@
 ---
 description: Experience Cloud Debugger 的“工具”屏幕
 keywords: debugger;experience cloud debugger 扩展程序;chrome;扩展程序;工具;dtm;target
-seo-description: Experience Cloud Debugger 的“工具”屏幕
-seo-title: 工具
+seo-description: Experience Cloud Debugger Tools screen
+seo-title: Tools
 title: 工具
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
 exl-id: ad108515-030f-4790-a29c-70f82e58a55d
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '396'
 ht-degree: 100%
 
 ---

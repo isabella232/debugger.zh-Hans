@@ -19,23 +19,23 @@ ht-degree: 22%
 
 您可以将Platform Debugger与其他Adobe激活解决方案结合使用，以执行以下操作：
 
-1. 使用 [标记](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=zh-Hans) 在数据收集UI中插入可激活的代码 [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html) 产品。
-1. 使用 [**[!UICONTROL Auditor]**选项卡](./auditor/overview.md) 中，用于测试您的实施。
-1. 使用Platform Debugger中基于事件且特定于解决方案的工具来调试Auditor发现的问题或检查有关您的实施的其他信息。
+1. 使用 [标记](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html) 在数据收集UI中插入可激活的代码 [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html) 产品。
+1. 使用 [**[!UICONTROL Auditor]**选项卡](./auditor/overview.md) ，以测试您的实施。
+1. 在Platform Debugger中使用基于事件的工具和特定于解决方案的工具来调试Auditor发现的问题，或检查有关您实施的其他信息。
 
 >[!NOTE]
 >
->虽然上述步骤是一个共同的过程，但不一定按照规定的顺序执行。
+>虽然上述步骤代表一个通用过程，但它们不一定按照所述顺序执行。
 
-您可以在任何网页上运行Platform Debugger，该扩展将有权访问公共数据。 要使用扩展访问非公共数据，您必须在打开的浏览器选项卡中通过Experience Cloud身份验证。
+您可以在任何网页上运行Platform Debugger，扩展将有权访问公共数据。 要使用扩展访问非公共数据，您必须在打开的浏览器选项卡中通过Experience Cloud身份验证。
 
 ## 用例 {#section-9fcd0583ed184943a8f0c2d3c00658e0}
 
-您可以使用Platform Debugger收集的信息，更好地了解Experience Cloud解决方案的实施方式。 例如：
+您可以使用Platform Debugger收集的信息来更好地了解Experience Cloud解决方案的实施方式。 例如：
 
-* **标记**:查看页面上部署的属性、环境和内部版本。
-* **Adobe Target**:查看您有无资格参与哪些活动以及原因。
-* **Adobe Analytics**:查看当前页面上哪些报表包处于活动状态。
+* **标记**：查看页面上部署的资产、环境和内部版本。
+* **Adobe Target**：查看您有资格或没有资格参与的活动以及相应原因。
+* **Adobe Analytics**：查看当前页面上处于活动状态的报表包。
 
 ## 视频教程
 

@@ -15,7 +15,7 @@ ht-degree: 55%
 
 # 解决方案
 
-Adobe Experience Platform Debugger提供 **解决方案** 中。 选择一个解决方案以查看特定Adobe Experience Cloud技术的结果。
+Adobe Experience Platform Debugger提供了一个 **解决方案** 左侧导航栏中。 选择解决方案可查看特定Adobe Experience Cloud技术的结果。
 
 ## Adobe Experience Platform Web SDK {#aep}
 
@@ -23,7 +23,7 @@ Adobe Experience Platform Web SDK 屏幕可显示有关 Adobe Experience Platfor
 
 ## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
 
-Analytics 屏幕可提供有关您的 [Analytics](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hans) 实施方面的信息。
+Analytics 屏幕可提供有关您的 [Analytics](https://experienceleague.adobe.com/docs/analytics.html) 实施方面的信息。
 
 ![](assets/analytics.jpg)
 
@@ -33,7 +33,7 @@ Analytics 屏幕可提供有关您的 [Analytics](https://experienceleague.adobe
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
-可以使用 [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) 选项卡查看[事件](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html)的详细信息。选择要展开的组织并显示信息。
+可以使用 [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) 选项卡查看[事件](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-event-calls/dcs-event-calls.html)的详细信息。选择组织以将其展开并显示信息。
 
 ## Adobe Experience Platform标记 {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
@@ -41,4 +41,4 @@ Analytics 屏幕可提供有关您的 [Analytics](https://experienceleague.adobe
 
 ## Experience Cloud ID 服务 {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
-可以使用“Experience Cloud ID 服务”选项卡查看 [Experience Cloud ID 服务](https://experienceleague.adobe.com/docs/id-service/using/home.html)请求。
+可以使用“Experience Cloud ID 服务”选项卡查看 [Experience Cloud ID 服务](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=zh-Hans)请求。

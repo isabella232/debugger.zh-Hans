@@ -1,6 +1,6 @@
 ---
-title: 安装Platform Debugger
-description: 了解如何安装Adobe Experience Platform Debugger。
+title: 安装Platform Bugger
+description: 了解如何安装Adobe Experience Platform调试器。
 keywords: debugger;experience Platform Debugger 扩展程序;chrome;扩展程序;安装
 seo-description: How to Install Experience Platform Debugger
 seo-title: Install Experience Platform Debugger
@@ -13,11 +13,11 @@ ht-degree: 25%
 
 ---
 
-# 安装Platform Debugger
+# 安装Platform Bugger
 
-Adobe Experience Platform Debugger可以在Google Chrome或Mozilla Firefox浏览器中安装。请按照以下相应链接在您的首选浏览器上安装该扩展：
+Adobe Experience Platform Debugger可以安装在Google Chrome或Mozilla Firefox浏览器中。请按照下面的相应链接在首选浏览器上安装该扩展：
 
 * [Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
 * [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/adobe-experience-platform-dbg/)
 
-安装Chrome扩展程序或Firefox加载项后，会显示一个图标(![](assets/start-icon.jpg))。 选择此图标以打开扩展。
+安装Chrome扩展或Firefox加载项后，图标(![](assets/start-icon.jpg))添加到扩展栏中。 选择此图标以打开扩展。
